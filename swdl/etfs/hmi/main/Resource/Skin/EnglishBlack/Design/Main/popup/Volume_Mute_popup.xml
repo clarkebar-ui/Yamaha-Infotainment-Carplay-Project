@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Base" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Icon_Mute" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Volume_MUTE" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

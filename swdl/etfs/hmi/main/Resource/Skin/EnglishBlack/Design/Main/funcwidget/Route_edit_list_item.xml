@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="mapdest" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Icon_del" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="Line" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="Push" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Base" type="BUTTON" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

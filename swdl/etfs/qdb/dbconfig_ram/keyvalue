@@ -1,0 +1,4 @@
+Filename::/usr/var/volatile/qdb/key_value
+SchemaFile::/etc/sql/persistency_mgr/key_value.sql
+Compression::lzo
+BackupDir::/usr/var/qdb_ram/key_value/key_value1,/usr/var/qdb_ram/key_value/key_value2

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="ON" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="SeekBackground" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="6" name="SeekPress" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="SeekLeft" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="SeekRight" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Preset" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="TABLE" type="TABLE" visible="true"></Item>
+		<Item id="12" name="Status" type="TEXTFIELD" visible="true"></Item>
+		<Item id="17" name="Text" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="CB_Radio_Sensitivity" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="19" name="DisableScr" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="Add_Preset" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

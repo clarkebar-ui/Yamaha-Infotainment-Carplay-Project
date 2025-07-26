@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Set" type="BUTTON"></Item>
+		<Item id="3" name="Copy" type="BUTTON"></Item>
+		<Item id="4" name="EQ_data" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

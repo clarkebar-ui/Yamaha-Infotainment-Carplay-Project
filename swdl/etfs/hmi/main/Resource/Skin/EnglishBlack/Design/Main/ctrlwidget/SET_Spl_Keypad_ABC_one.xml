@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mLetB" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="mLetC" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="mFuncAtoI" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="mLetF" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="mLetI" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="mLetA" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="mLetH" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="mLetE" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="mLetG" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="mLetD" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="mFuncKeyboard" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="mFuncNumber" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="mFuncSpclChars" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="mFuncLatANO" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="mFuncJtoR" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="mFuncStoDot" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="mFuncDelete" type="BUTTON" visible="true"></Item>
+	</Group>
+</CTRLWIDGET>

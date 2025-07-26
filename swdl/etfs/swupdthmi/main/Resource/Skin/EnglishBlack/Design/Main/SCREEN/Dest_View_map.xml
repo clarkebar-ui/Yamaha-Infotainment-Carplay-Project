@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="view_u" type="IMAGEFIELD"></Item>
+		<Item id="4" name="view_l" type="IMAGEFIELD"></Item>
+		<Item id="5" name="view_d" type="IMAGEFIELD"></Item>
+		<Item id="6" name="view_r" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Target" type="IMAGEFIELD"></Item>
+		<Item id="8" name="ky_top_nav3_push_sel" type="IMAGEFIELD"></Item>
+		<Item id="9" name="ky_top_nav4_push_sel" type="IMAGEFIELD"></Item>
+		<Item id="10" name="nav_compass" type="IMAGEFIELD"></Item>
+		<Item id="11" name="Info" type="BUTTON"></Item>
+		<Item id="12" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="13" name="Save" type="BUTTON"></Item>
+		<Item id="14" name="Go" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

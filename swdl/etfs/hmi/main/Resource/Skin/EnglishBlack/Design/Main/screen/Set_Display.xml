@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="7" name="DisplayOFF" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="9" name="Autobrightness" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="21" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="24" name="Brightness_Adjust" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="26" name="DispON" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

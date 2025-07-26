@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Popup" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="Software_update" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Yes" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="No" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Version_No" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Update_name" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

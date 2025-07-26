@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="10" name="Engineering_mode_menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="19" name="EQ_data_State" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="On" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="4_Speaker" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="22" name="2_Speaker" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="4_Speaker_Set_1" type="BUTTON" visible="true"></Item>
+		<Item id="24" name="4_Speaker_Copy_1" type="BUTTON" visible="true"></Item>
+		<Item id="25" name="4_Speaker_EQ_data_1" type="TEXTFIELD" visible="true"></Item>
+		<Item id="26" name="4_Speaker_Set_2" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="4_Speaker_Copy_2" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="4_Speaker_EQ_data_2" type="TEXTFIELD" visible="true"></Item>
+		<Item id="29" name="4_Speaker_Set_3" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="4_Speaker_Copy_3" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="4_Speaker_EQ_data_3" type="TEXTFIELD" visible="true"></Item>
+		<Item id="32" name="2_Speaker_Set_1" type="BUTTON" visible="true"></Item>
+		<Item id="33" name="2_Speaker_Copy_1" type="BUTTON" visible="true"></Item>
+		<Item id="34" name="2_Speaker_EQ_data_1" type="TEXTFIELD" visible="true"></Item>
+		<Item id="35" name="2_Speaker_Set_2" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="2_Speaker_Copy_2" type="BUTTON" visible="true"></Item>
+		<Item id="37" name="2_Speaker_EQ_data_2" type="TEXTFIELD" visible="true"></Item>
+		<Item id="38" name="2_Speaker_Set_3" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="2_Speaker_Copy_3" type="BUTTON" visible="true"></Item>
+		<Item id="40" name="2_Speaker_EQ_data_3" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

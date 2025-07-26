@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="36" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="38" name="Spell_Street" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="Spell_City" type="BUTTON" visible="true"></Item>
+		<Item id="40" name="State" type="BUTTON" visible="true"></Item>
+		<Item id="41" name="Set" type="BUTTON" visible="true"></Item>
+		<Item id="46" name="ZipCode" type="BUTTON" visible="true"></Item>
+		<Item id="47" name="zipcodeText" type="TEXTFIELD" visible="true"></Item>
+		<Item id="56" name="txtbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="57" name="HouseTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="58" name="StreetTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="59" name="CityTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="60" name="StateTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="61" name="United_States" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

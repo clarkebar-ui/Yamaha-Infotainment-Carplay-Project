@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="TEXT" type="BUTTON"></Item>
+		<Item id="2" name="LIST" type="LIST"></Item>
+		<Item id="3" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="8" name="Back" type="BUTTON"></Item>
+		<Item id="9" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+	</Group>
+</POPUP>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="TEXT" type="BUTTON"></Item>
+		<Item id="3" name="LIST" type="LIST"></Item>
+		<Item id="4" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="5" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="check_box_1" type="IMAGEFIELD"></Item>
+		<Item id="7" name="check_box_2" type="IMAGEFIELD"></Item>
+		<Item id="8" name="check_box_3" type="IMAGEFIELD"></Item>
+		<Item id="9" name="check_box_4" type="IMAGEFIELD"></Item>
+		<Item id="10" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+	</Group>
+</SCREEN>

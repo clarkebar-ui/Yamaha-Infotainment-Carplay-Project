@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="30" name="Audio" type="BUTTON"></Item>
+		<Item id="33" name="Menu" type="BUTTON"></Item>
+		<Item id="34" name="Zoom_out" type="BUTTON"></Item>
+		<Item id="35" name="Zoom_in" type="BUTTON"></Item>
+		<Item id="41" name="My_icon" type="IMAGEFIELD"></Item>
+		<Item id="44" name="Home_NAV_top" type="REFFUNCWIDGET"></Item>
+		<Item id="45" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="46" name="Nav_Top_Arrival" type="REFFUNCWIDGET"></Item>
+		<Item id="47" name="NAV_Top_moving" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

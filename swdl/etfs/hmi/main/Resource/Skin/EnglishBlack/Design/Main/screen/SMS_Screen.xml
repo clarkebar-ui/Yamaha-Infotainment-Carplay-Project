@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="5" name="Phone_Call" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="Scrollbar" type="SCROLLBAR" visible="true"></Item>
+		<Item id="9" name="txtbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="line_sms" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="11" name="Header_Field" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="message_field" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

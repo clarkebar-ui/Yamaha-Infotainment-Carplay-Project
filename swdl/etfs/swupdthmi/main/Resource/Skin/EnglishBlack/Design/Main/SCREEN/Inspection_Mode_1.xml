@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="3" name="Inspection_base1" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="5" name="IM_1_Tab" type="BUTTON"></Item>
+		<Item id="6" name="IM_2_Tab" type="BUTTON"></Item>
+		<Item id="7" name="FM_AM_Rx" type="TEXTFIELD"></Item>
+		<Item id="37" name="ON" type="BUTTON"></Item>
+		<Item id="38" name="previous " type="BUTTON"></Item>
+		<Item id="39" name="Next" type="BUTTON"></Item>
+		<Item id="40" name="FM_Am_Signal_Level" type="BUTTON"></Item>
+		<Item id="41" name="SiriusXM_Signal_Level" type="BUTTON"></Item>
+		<Item id="42" name="GPS_Signal_Level" type="BUTTON"></Item>
+		<Item id="43" name="BT_Signal_Level" type="BUTTON"></Item>
+		<Item id="44" name="CB_Radio_Signal_Level" type="BUTTON"></Item>
+		<Item id="45" name="FM_AM_connect" type="BUTTON"></Item>
+		<Item id="46" name="SiriuseXM_connect" type="BUTTON"></Item>
+		<Item id="47" name="GPS_RX_connect" type="BUTTON"></Item>
+		<Item id="48" name="BT_RX_connect" type="BUTTON"></Item>
+		<Item id="49" name="CV_Radio_connect" type="BUTTON"></Item>
+		<Item id="50" name="Vehical_can_connect" type="BUTTON"></Item>
+		<Item id="51" name="RSh_connect" type="BUTTON"></Item>
+		<Item id="52" name="GW_connect" type="BUTTON"></Item>
+		<Item id="53" name="PSH_connect" type="BUTTON"></Item>
+		<Item id="65" name="Battery_Level_Front" type="IMAGEFIELD"></Item>
+		<Item id="66" name="Battery_Level_Rear" type="IMAGEFIELD"></Item>
+		<Item id="67" name="minus_Vol" type="BUTTON"></Item>
+		<Item id="68" name="Plus_Vol" type="BUTTON"></Item>
+		<Item id="69" name="MID" type="TEXTFIELD"></Item>
+		<Item id="70" name="OFF" type="TEXTFIELD"></Item>
+		<Item id="71" name="Hi" type="TEXTFIELD"></Item>
+		<Item id="72" name="Rr_PSI" type="TEXTFIELD"></Item>
+		<Item id="73" name="FR_psi" type="TEXTFIELD"></Item>
+		<Item id="74" name="FR" type="TEXTFIELD"></Item>
+		<Item id="75" name="Rr" type="TEXTFIELD"></Item>
+		<Item id="76" name="VOL" type="TEXTFIELD"></Item>
+		<Item id="77" name="Vol_Level" type="TEXTFIELD"></Item>
+		<Item id="78" name="Ch2" type="TEXTFIELD"></Item>
+		<Item id="85" name="GPS_RX_Sensitivity" type="TEXTFIELD"></Item>
+		<Item id="86" name="BT_RX_Sensitivity" type="TEXTFIELD"></Item>
+		<Item id="87" name="CV_Radio_RX" type="TEXTFIELD"></Item>
+		<Item id="88" name="Vehical_Can" type="TEXTFIELD"></Item>
+		<Item id="89" name="VB_Radio" type="TEXTFIELD"></Item>
+		<Item id="90" name="SiriuseXM_RX" type="TEXTFIELD"></Item>
+		<Item id="91" name="GW_Connection" type="TEXTFIELD"></Item>
+		<Item id="92" name="RSH_Connection" type="TEXTFIELD"></Item>
+		<Item id="93" name="PSH_Connection" type="TEXTFIELD"></Item>
+		<Item id="94" name="TPMS_Valus" type="TEXTFIELD"></Item>
+		<Item id="95" name="TPMS_Battery" type="TEXTFIELD"></Item>
+		<Item id="96" name="Head_Set" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

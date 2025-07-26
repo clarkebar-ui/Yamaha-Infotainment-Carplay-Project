@@ -1,0 +1,11 @@
+[device]
+type="opennav_yamaha_na"
+
+[opennav]
+enable_logbook=1
+opennav_install_checker=0
+
+[folders]
+ui_car="content/car"
+app="/fs/mmc0/nav/db"
+secondary_app="/fs/mmc0/nav/engine"

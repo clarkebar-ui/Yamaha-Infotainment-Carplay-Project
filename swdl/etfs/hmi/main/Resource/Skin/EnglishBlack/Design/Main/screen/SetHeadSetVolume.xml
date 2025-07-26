@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="45" name="UP" type="BUTTON" visible="true"></Item>
+		<Item id="46" name="Down" type="BUTTON" visible="true"></Item>
+		<Item id="54" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="56" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="57" name="SetHeadSetVolume" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="58" name="SCROLLBAR" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="59" name="Volume_List" type="LIST" visible="true"></Item>
+	</Group>
+</SCREEN>

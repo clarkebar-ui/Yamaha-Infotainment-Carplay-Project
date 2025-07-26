@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Artwork" type="IMAGEFIELD"></Item>
+		<Item id="5" name="ChannelNum" type="TEXTFIELD"></Item>
+		<Item id="6" name="Channel_Name" type="TEXTFIELD"></Item>
+		<Item id="7" name="ARTIST" type="TEXTFIELD"></Item>
+		<Item id="8" name="Song" type="TEXTFIELD"></Item>
+		<Item id="9" name="Song_Name" type="TEXTFIELD"></Item>
+		<Item id="10" name="Artist_Name" type="TEXTFIELD"></Item>
+		<Item id="11" name="MediaTrack" type="PROGRESSBAR"></Item>
+		<Item id="12" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="13" name="Aud_Menu" type="REFFUNCWIDGET"></Item>
+		<Item id="15" name="SXM_Playback" type="REFFUNCWIDGET"></Item>
+		<Item TOUCH_PRESSED="true" id="16" name="PresetList" type="BUTTON"></Item>
+		<Item id="17" name="TagThis" type="BUTTON"></Item>
+		<Item id="18" name="Menu" type="BUTTON"></Item>
+		<Item id="19" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="20" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" id="21" name="SeekLeft" type="BUTTON"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" id="22" name="SeekRight" type="BUTTON"></Item>
+		<Item id="25" name="Prog_Left" type="IMAGEFIELD"></Item>
+		<Item id="26" name="Prog_Right" type="IMAGEFIELD"></Item>
+	</Group>
+</SCREEN>

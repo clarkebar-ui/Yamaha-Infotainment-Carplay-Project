@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="7" name="TOP_zone_l" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="8" name="Arrival_time" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Arrival" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="H_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="Mi_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="Mi_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="Vai_pt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="M_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="M_Value_22" type="TEXTFIELD" visible="true"></Item>
+		<Item id="23" name="M_Value_23" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

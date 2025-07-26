@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Auto" type="BUTTON"></Item>
+		<Item id="2" name="ChannelItem" type="BUTTON"></Item>
+		<Item id="3" name="List" type="BUTTON"></Item>
+		<Item id="6" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="7" name="Menu" type="REFFUNCWIDGET"></Item>
+		<Item id="8" name="Setting" type="BUTTON"></Item>
+		<Item id="9" name="Table_Freq_List" type="TABLE"></Item>
+		<Item id="11" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="12" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item id="13" name="SeekLeft" type="BUTTON"></Item>
+		<Item id="14" name="SeekRight" type="BUTTON"></Item>
+		<Item id="18" name="Channel" type="TEXTFIELD"></Item>
+		<Item id="19" name="WB_Contents" type="TEXTFIELD"></Item>
+		<Item id="20" name="WB_Unit" type="TEXTFIELD"></Item>
+		<Item id="21" name="WB_Ps_Name" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

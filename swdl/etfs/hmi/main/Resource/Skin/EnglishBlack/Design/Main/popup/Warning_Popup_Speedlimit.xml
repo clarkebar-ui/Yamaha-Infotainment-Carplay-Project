@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="POPUP" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="Warning_bar" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="WARNING" type="TEXTFIELD" visible="true"></Item>
+		<Item id="4" name="Text_line_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="Accept" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="Warning_Icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="Cancel" type="BUTTON" visible="true"></Item>
+	</Group>
+</POPUP>

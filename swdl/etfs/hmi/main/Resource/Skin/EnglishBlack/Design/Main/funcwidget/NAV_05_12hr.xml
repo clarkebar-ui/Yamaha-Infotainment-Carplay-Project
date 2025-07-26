@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="hour_three_percent" type="TEXTFIELD"></Item>
+		<Item id="2" name="hour_three_Fahrenheit" type="TEXTFIELD"></Item>
+		<Item id="3" name="sxmw_icon_four" type="IMAGEFIELD"></Item>
+		<Item id="4" name="hour_three" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="5" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="11" name="Vehicle_Information" type="REFFUNCWIDGET"></Item>
+		<Item id="13" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+		<Item id="14" name="TEXT" type="TEXTFIELD"></Item>
+		<Item id="20" name="List" type="LIST"></Item>
+	</Group>
+</SCREEN>

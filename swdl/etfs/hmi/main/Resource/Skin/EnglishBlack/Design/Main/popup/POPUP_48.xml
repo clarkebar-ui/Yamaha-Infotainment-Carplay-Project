@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Base" type="IMAGEFIELD"></Item>
+		<Item id="3" name="Updating_now" type="TEXTFIELD"></Item>
+		<Item id="4" name="Please_Do_not" type="TEXTFIELD"></Item>
+		<Item id="5" name="Switch_off" type="TEXTFIELD"></Item>
+		<Item id="6" name="waiting_frame" type="IMAGEFIELD"></Item>
+	</Group>
+</POPUP>

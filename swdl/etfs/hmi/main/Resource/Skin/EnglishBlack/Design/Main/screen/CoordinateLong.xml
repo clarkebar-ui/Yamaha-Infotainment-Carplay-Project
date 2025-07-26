@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="18" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="19" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="20" name="Add_Shortcut" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="Clear" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="txtbase_coordinate" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="Enter" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="degree" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="single_comma" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="26" name="double_comma" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="27" name="Dot" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="28" name="Latitude" type="TEXTFIELD" visible="true"></Item>
+		<Item id="29" name="Text_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="30" name="Text_two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="31" name="Text_three" type="TEXTFIELD" visible="true"></Item>
+		<Item id="32" name="Text_four" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="Text_five" type="TEXTFIELD" visible="true"></Item>
+		<Item id="34" name="KEYBOARD" type="KEYBOARD" visible="true"></Item>
+		<Item id="36" name="Line_1" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

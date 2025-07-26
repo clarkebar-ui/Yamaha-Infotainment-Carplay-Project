@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="5" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="Cancel_All" type="BUTTON"></Item>
+		<Item id="15" name="Game_Zone_selection" type="REFFUNCWIDGET"></Item>
+		<Item id="16" name="LIST" type="LIST"></Item>
+		<Item id="17" name="Team_Name" type="TEXTFIELD"></Item>
+		<Item id="18" name="Score" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="3" name="Day" type="BUTTON"></Item>
+		<Item id="4" name="Time" type="BUTTON"></Item>
+		<Item id="5" name="On_map" type="BUTTON"></Item>
+		<Item id="6" name="Refresh" type="BUTTON"></Item>
+		<Item id="7" name="Change_location" type="BUTTON"></Item>
+		<Item id="8" name="City_State" type="TEXTFIELD"></Item>
+		<Item id="9" name="Recieved_day_time" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="popup_rcd" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="Sure_park" type="TEXTFIELD" visible="true"></Item>
+		<Item id="4" name="Text" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

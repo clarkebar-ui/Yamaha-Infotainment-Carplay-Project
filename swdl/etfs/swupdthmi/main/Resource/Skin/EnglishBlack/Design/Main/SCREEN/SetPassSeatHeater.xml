@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="57" name="gripheater" type="BUTTON"></Item>
+		<Item TOUCH_RELEASED="true" id="58" name="Up" type="BUTTON"></Item>
+		<Item TOUCH_RELEASED="false" id="60" name="Down" type="BUTTON"></Item>
+		<Item id="61" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="62" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="63" name="HeaterControl" type="REFFUNCWIDGET"></Item>
+		<Item id="64" name="SCROLLBAR" type="IMAGEFIELD"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="txtbase_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="txtbase_two" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="txtbase_three" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="5" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="SiriusXM_Radio_ID" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="SiriusXM_Device_ID" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="CB_Radio_Software_Version_ID" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="UP" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="Scroll_Indicator" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="Down" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="Radio_ID_txt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="Device_ID_txt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="17" name="CB_Radio_ID" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

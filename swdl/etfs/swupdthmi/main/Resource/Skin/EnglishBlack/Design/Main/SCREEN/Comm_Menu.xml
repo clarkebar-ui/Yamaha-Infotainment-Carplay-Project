@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="9" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="11" name="Phone" type="BUTTON"></Item>
+		<Item id="12" name="Intercom" type="BUTTON"></Item>
+		<Item id="13" name="CB_Radio" type="BUTTON"></Item>
+		<Item id="14" name="SMS" type="BUTTON"></Item>
+		<Item id="15" name="Message" type="BUTTON"></Item>
+		<Item id="16" name="Setting" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

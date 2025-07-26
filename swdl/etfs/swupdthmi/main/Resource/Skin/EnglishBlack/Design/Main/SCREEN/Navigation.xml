@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="8" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="9" name="Destination" type="BUTTON"></Item>
+		<Item id="10" name="Viewmap" type="BUTTON"></Item>
+		<Item id="11" name="Locationinfo" type="BUTTON"></Item>
+		<Item id="12" name="Logbook" type="BUTTON"></Item>
+		<Item id="13" name="SiriusXM_info" type="BUTTON"></Item>
+		<Item id="14" name="Setting" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

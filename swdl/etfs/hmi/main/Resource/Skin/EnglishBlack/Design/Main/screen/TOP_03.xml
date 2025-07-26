@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="44" name="Home_Center" type="REFFUNCWIDGET"></Item>
+		<Item id="45" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="46" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="47" name="Tire" type="TEXTFIELD"></Item>
+		<Item id="48" name="Fuel_consumpt" type="TEXTFIELD"></Item>
+		<Item id="49" name="AVG_fuel" type="TEXTFIELD"></Item>
+		<Item id="50" name="Tire_number" type="TEXTFIELD"></Item>
+		<Item id="51" name="KPA" type="TEXTFIELD"></Item>
+		<Item id="53" name="Fuel_MPG" type="TEXTFIELD"></Item>
+		<Item id="54" name="AVG_MPG" type="TEXTFIELD"></Item>
+		<Item id="55" name="Fuel_number" type="TEXTFIELD"></Item>
+		<Item id="56" name="AVG__number" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

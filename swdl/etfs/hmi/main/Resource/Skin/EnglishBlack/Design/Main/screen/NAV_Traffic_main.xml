@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="TEXT" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="4" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="7" name="Scrollbar" type="SCROLLBAR" visible="true"></Item>
+		<Item id="15" name="SiriusXM_info" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="19" name="Around_me" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="On_road" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="Refresh" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="SXM_Loading" type="REFFUNCWIDGET" visible="true"></Item>
+	</Group>
+</SCREEN>

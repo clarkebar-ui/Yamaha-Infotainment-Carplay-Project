@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="sxmbase" type="IMAGEFIELD"></Item>
+		<Item id="5" name="On_map" type="BUTTON"></Item>
+		<Item id="6" name="Time" type="BUTTON"></Item>
+		<Item id="7" name="Day" type="BUTTON"></Item>
+		<Item id="8" name="City_State" type="TEXTFIELD"></Item>
+		<Item id="9" name="Recieved_day_time" type="TEXTFIELD"></Item>
+		<Item id="34" name="refresh" type="BUTTON"></Item>
+		<Item id="35" name="Change_location" type="BUTTON"></Item>
+		<Item id="36" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+		<Item id="37" name="NAV_05_current" type="REFFUNCWIDGET"></Item>
+		<Item id="39" name="NAV_05_3hr" type="REFFUNCWIDGET"></Item>
+		<Item id="40" name="NAV_05_5hr" type="REFFUNCWIDGET"></Item>
+		<Item id="42" name="NAV_05_12hr" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

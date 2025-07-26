@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_PRESSED="true" id="1" name="Increase" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="2" name="Decrease" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

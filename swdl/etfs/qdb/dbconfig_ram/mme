@@ -1,0 +1,6 @@
+Filename::/usr/var/volatile/qdb/mme
+SchemaFile::/etc/sql/mme/mme.sql
+DataSchemaFile::/etc/sql/mme/mme_data.sql
+Collation::general@libmedia_custom_charUTF8.so
+Compression::lzo
+BackupDir::/usr/var/qdb_ram/mme/mme1,/usr/var/qdb_ram/mme/mme2

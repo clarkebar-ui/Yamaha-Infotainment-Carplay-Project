@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="nav_compass" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="6" name="Route_select" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="route_mem_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="Go_text" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Fastest" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="route_td_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="12" name="icon_mapstart" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="hour_Digit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="distance" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="hour_unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="minute_Digit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="19" name="minute_unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="mile_Digit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="mile_unit" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

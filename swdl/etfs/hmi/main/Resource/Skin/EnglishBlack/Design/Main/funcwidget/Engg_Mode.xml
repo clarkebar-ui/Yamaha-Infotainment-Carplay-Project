@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="5" name="TXTbase_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="6" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="colne" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="degree" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

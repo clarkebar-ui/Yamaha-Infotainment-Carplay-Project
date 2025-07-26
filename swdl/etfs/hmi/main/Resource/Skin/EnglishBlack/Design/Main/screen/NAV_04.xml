@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="On_map" type="BUTTON"></Item>
+		<Item id="4" name="Time" type="BUTTON"></Item>
+		<Item id="5" name="Day" type="BUTTON"></Item>
+		<Item id="9" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+		<Item id="10" name="Map_area" type="IMAGEFIELD"></Item>
+		<Item id="11" name="Current_State" type="BUTTON"></Item>
+		<Item id="12" name="Change_location" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

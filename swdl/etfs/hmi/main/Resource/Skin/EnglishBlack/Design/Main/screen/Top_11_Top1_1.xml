@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="30" name="ky_top_nav1" type="BUTTON"></Item>
+		<Item id="33" name="ky_top_nav2" type="BUTTON"></Item>
+		<Item id="34" name="ky_top_nav3" type="BUTTON"></Item>
+		<Item id="35" name="ky_top_nav4" type="BUTTON"></Item>
+		<Item id="41" name="My_icon" type="IMAGEFIELD"></Item>
+		<Item id="43" name="TOP_NAV" type="REFFUNCWIDGET"></Item>
+		<Item id="44" name="Home_NAV_top" type="REFFUNCWIDGET"></Item>
+		<Item id="45" name="Home_header" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

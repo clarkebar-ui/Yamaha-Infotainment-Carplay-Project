@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="19" name="Plus_media_volume" type="BUTTON"></Item>
+		<Item TOUCH_RELEASED="true" id="20" name="Minus_media_volume" type="BUTTON"></Item>
+		<Item id="21" name="Level" type="IMAGEFIELD"></Item>
+		<Item id="34" name="Label" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Phone_number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="2" name="header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="3" name="Ignore" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="4" name="Answer" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="icon_phone" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

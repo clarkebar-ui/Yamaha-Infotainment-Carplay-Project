@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="4" name="TEXT" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="5" name="Option_List" type="LIST"></Item>
+		<Item TOUCH_PRESSED="true" id="7" name="Back" type="BUTTON"></Item>
+	</Group>
+</POPUP>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="36" name="SiriusXM_info" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="37" name="NAV_Weather_hours" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="43" name="NAV_weather_onmap" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="48" name="sxmbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="51" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="52" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="55" name="SXM_Loading" type="REFFUNCWIDGET" visible="true"></Item>
+	</Group>
+</SCREEN>

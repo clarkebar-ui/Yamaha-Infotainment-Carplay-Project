@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="top_zone2sp" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="top_zone1sp" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="ZERO" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="MPH" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Zero_mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="icon_top_turn" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="icon_top_info_compass" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="top_zone_two" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="top_zone_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="icon_top_limit" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="MPH" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="ZERO" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Speed_limit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Top_Zone" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="8" name="icon_top_turn" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="Mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Zero_mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Current_street_name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="Caution_Ice" type="TEXTFIELD" visible="true"></Item>
+		<Item id="17" name="Speed_limit_23" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="icon_top_info_compass_x" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

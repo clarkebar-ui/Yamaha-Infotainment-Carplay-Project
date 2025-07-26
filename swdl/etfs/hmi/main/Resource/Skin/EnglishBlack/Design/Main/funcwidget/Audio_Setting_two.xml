@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="12" name="Fornt" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="Rear" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="Slidebar" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

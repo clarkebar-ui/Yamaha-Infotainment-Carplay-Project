@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mNum2" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="mNum3" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="mNum6" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="mNum9" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="mNum1" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="mNum8" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="mNum5" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="mNum7" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="mNum4" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="mFuncKeyboard" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="mFuncABC" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="mFuncSpclChars" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="mFuncLatANO" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="mFuncDelete" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="mNum0" type="BUTTON" visible="true"></Item>
+	</Group>
+</CTRLWIDGET>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="52" name="Auto" type="BUTTON" visible="true"></Item>
+		<Item id="53" name="ChannelItem" type="BUTTON" visible="true"></Item>
+		<Item id="54" name="List" type="BUTTON" visible="true"></Item>
+		<Item id="57" name="Channel" type="TEXTFIELD" visible="true"></Item>
+		<Item id="58" name="Contents" type="TEXTFIELD" visible="true"></Item>
+		<Item id="59" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="61" name="Menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="62" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="63" name="Table_Freq_List" type="TABLE" visible="true"></Item>
+		<Item id="64" name="SCROLLBAR" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="65" name="SeekBackground" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="66" name="SeekPress" type="IMAGEFIELD" visible="true"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="67" name="SeekLeft" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="68" name="SeekRight" type="BUTTON" visible="true"></Item>
+		<Item id="69" name="Ps_Name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="70" name="Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="71" name="Scrollbar_Table" type="SCROLLBAR" visible="true"></Item>
+		<Item id="76" name="Add_Preset" type="BUTTON" visible="true"></Item>
+		<Item id="83" name="Channel_Details" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

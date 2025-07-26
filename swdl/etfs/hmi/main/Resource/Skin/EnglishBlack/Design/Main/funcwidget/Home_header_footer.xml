@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="topbase_footer" type="IMAGEFIELD"></Item>
+		<Item id="2" name="icon_top_sxm" type="IMAGEFIELD"></Item>
+		<Item id="3" name="icon_top_bt" type="IMAGEFIELD"></Item>
+		<Item id="4" name="icon_top_mail" type="IMAGEFIELD"></Item>
+		<Item id="5" name="icon_top_ant" type="IMAGEFIELD"></Item>
+		<Item id="6" name="icon_top_prev_push_sel" type="IMAGEFIELD"></Item>
+		<Item id="7" name="icon_top_artist" type="IMAGEFIELD"></Item>
+		<Item id="8" name="icon_top_next_push_sel" type="IMAGEFIELD"></Item>
+		<Item id="9" name="icon_top_cb" type="IMAGEFIELD"></Item>
+		<Item id="10" name="icon_top_int" type="IMAGEFIELD"></Item>
+		<Item id="11" name="icon_top_voice" type="IMAGEFIELD"></Item>
+		<Item id="12" name="icon_top_mute" type="IMAGEFIELD"></Item>
+		<Item id="13" name="icon_top_aud" type="IMAGEFIELD"></Item>
+		<Item id="21" name="topbase_header" type="IMAGEFIELD"></Item>
+		<Item id="22" name="icon_top_info" type="IMAGEFIELD"></Item>
+		<Item id="23" name="icon_top_seat_r" type="IMAGEFIELD"></Item>
+		<Item id="24" name="icon_top_grip" type="IMAGEFIELD"></Item>
+		<Item id="25" name="icon_top_seat_p" type="IMAGEFIELD"></Item>
+		<Item id="26" name="icon_top_time" type="IMAGEFIELD"></Item>
+		<Item id="32" name="Silent_river" type="TEXTFIELD"></Item>
+		<Item id="33" name="AC_DC" type="TEXTFIELD"></Item>
+		<Item id="34" name="Current_St" type="TEXTFIELD"></Item>
+		<Item id="37" name="Time" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

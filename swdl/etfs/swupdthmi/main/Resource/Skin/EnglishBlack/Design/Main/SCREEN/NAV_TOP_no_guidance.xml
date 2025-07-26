@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="top_zone" type="IMAGEFIELD"></Item>
+		<Item id="5" name="icon_top_limit" type="IMAGEFIELD"></Item>
+		<Item id="6" name="MPH" type="TEXTFIELD"></Item>
+		<Item id="7" name="ZERO" type="TEXTFIELD"></Item>
+		<Item id="8" name="Speed_limit" type="TEXTFIELD"></Item>
+		<Item id="10" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="16" name="Audio" type="BUTTON"></Item>
+		<Item id="17" name="Menu" type="BUTTON"></Item>
+		<Item id="18" name="Zoom_out" type="BUTTON"></Item>
+		<Item id="19" name="Zoom_in" type="BUTTON"></Item>
+		<Item id="24" name="My_icon" type="IMAGEFIELD"></Item>
+		<Item id="27" name="icon_top_info_compass_x" type="IMAGEFIELD"></Item>
+		<Item id="28" name="POI_Button" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

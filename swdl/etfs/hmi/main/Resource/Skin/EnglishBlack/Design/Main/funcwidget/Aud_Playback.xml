@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="25" name="PrevRewind" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="PlayPause" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="NextForward" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="Random" type="BUTTON" visible="true"></Item>
+		<Item id="47" name="Repeat_One" type="BUTTON" visible="true"></Item>
+		<Item id="48" name="Repeat_All" type="BUTTON" visible="true"></Item>
+		<Item id="49" name="Repeat" type="BUTTON" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

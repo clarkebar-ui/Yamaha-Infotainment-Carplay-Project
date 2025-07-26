@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Text" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="7" name="LIST" type="LIST"></Item>
+		<Item TOUCH_PRESSED="true" id="9" name="VR_On" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="10" name="VR_OFF" type="BUTTON"></Item>
+		<Item id="16" name="VR_List_Scroll" type="SCROLLBAR"></Item>
+		<Item id="17" name="List_Header" type="TEXTFIELD"></Item>
+		<Item TOUCH_PRESSED="true" id="18" name="Cancel" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

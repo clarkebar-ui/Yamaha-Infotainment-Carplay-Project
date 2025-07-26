@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="17" name="Grip_Heater_Level" type="IMAGEFIELD"></Item>
+		<Item id="18" name="Seat_Heater_Level" type="IMAGEFIELD"></Item>
+		<Item id="19" name="Seat_Heater" type="BUTTON"></Item>
+		<Item id="20" name="WindShield_Down" type="BUTTON"></Item>
+		<Item id="21" name="Menu" type="BUTTON"></Item>
+		<Item id="22" name="WindShield_Up" type="BUTTON"></Item>
+		<Item id="23" name="Grip_Heater" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Phone_number" type="TEXTFIELD"></Item>
+		<Item id="4" name="Dialling_message" type="TEXTFIELD"></Item>
+		<Item TOUCH_PRESSED="true" id="5" name="Cancel" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

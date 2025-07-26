@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="top_zone2" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="top_zone1" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="top_zone3" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="6" name="icon_top_limit" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="MPH" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="ZERO" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Caution_Ice" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Speed_limit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Current_street_name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="icon_top_info_compass_x" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="icon_top_turn" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="Zero_mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="Mile" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="Icon_Ice" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="18" name="Warning_Icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="19" name="Warning_text" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="icon_top_info_compass_x_Left" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="Speed_limit_23" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

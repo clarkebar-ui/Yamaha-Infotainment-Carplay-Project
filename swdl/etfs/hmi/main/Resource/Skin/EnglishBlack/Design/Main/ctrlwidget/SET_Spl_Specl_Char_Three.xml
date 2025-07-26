@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mSignLeftParan" type="BUTTON"></Item>
+		<Item id="2" name="mSignRightParan" type="BUTTON"></Item>
+		<Item id="3" name="mFuncHypToComma" type="BUTTON"></Item>
+		<Item id="4" name="mSignGreaterthan" type="BUTTON"></Item>
+		<Item id="5" name="mSignRightCurlyBrack" type="BUTTON"></Item>
+		<Item id="6" name="mSignPlus" type="BUTTON"></Item>
+		<Item id="7" name="mSignLeftCurlyBrack" type="BUTTON"></Item>
+		<Item id="8" name="mSignLessthan" type="BUTTON"></Item>
+		<Item id="9" name="mSignCircumflex" type="BUTTON"></Item>
+		<Item id="10" name="mSignEqual" type="BUTTON"></Item>
+		<Item id="11" name="mFuncKeyboard" type="BUTTON"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="14" name="mFuncABC" type="BUTTON"></Item>
+		<Item id="15" name="mFuncSpclChars" type="BUTTON"></Item>
+		<Item id="16" name="mFuncLatANO" type="BUTTON"></Item>
+		<Item id="17" name="mFuncAmpToQuote" type="BUTTON"></Item>
+		<Item id="18" name="mFuncPlusToBraces" type="BUTTON"></Item>
+		<Item id="19" name="mFuncDelete" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

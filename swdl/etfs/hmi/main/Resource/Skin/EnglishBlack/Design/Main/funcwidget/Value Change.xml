@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="SET_Speller_Dialpad" type="KEYBOARD" visible="true"></Item>
+		<Item id="2" name="Edit_field" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="Edit_field_text" type="EDITFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

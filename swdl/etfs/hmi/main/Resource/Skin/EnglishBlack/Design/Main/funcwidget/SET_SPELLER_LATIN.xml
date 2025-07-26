@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Edit_field" type="IMAGEFIELD"></Item>
+		<Item id="2" name="mFuncDelete" type="BUTTON"></Item>
+		<Item id="3" name="TabIteam" type="BUTTON"></Item>
+		<Item id="4" name="mFuncKeyboard" type="BUTTON"></Item>
+		<Item id="5" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="6" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="7" name="mFuncNumber" type="BUTTON"></Item>
+		<Item id="8" name="mFuncSpclChars" type="BUTTON"></Item>
+		<Item id="9" name="mFuncLatANO" type="BUTTON"></Item>
+		<Item id="10" name="TABLE" type="TABLE"></Item>
+		<Item id="11" name="SCROLLBAR_Table" type="SCROLLBAR"></Item>
+		<Item id="12" name="SCROLLBAR" type="IMAGEFIELD"></Item>
+		<Item id="13" name="Edit_field_text" type="EDITFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

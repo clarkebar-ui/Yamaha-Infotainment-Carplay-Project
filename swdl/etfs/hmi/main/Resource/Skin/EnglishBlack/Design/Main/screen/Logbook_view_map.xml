@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="20" name="Map" type="BUTTON"></Item>
+		<Item id="21" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="22" name="Target" type="IMAGEFIELD"></Item>
+		<Item id="23" name="nav_compass" type="IMAGEFIELD"></Item>
+		<Item id="24" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="25" name="View_map_off" type="BUTTON"></Item>
+		<Item id="26" name="view_d" type="BUTTON"></Item>
+		<Item id="27" name="view_l" type="BUTTON"></Item>
+		<Item id="28" name="view_u" type="BUTTON"></Item>
+		<Item id="29" name="view_r" type="BUTTON"></Item>
+		<Item id="30" name="ky_top_nav3_push_sel" type="BUTTON"></Item>
+		<Item id="31" name="ky_top_nav4_push_sel" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

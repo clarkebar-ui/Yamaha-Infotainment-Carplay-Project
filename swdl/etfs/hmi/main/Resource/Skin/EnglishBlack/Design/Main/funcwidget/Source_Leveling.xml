@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="12" name="TXTbase_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="Minus_Bass" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="Plus_Bass" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="Source_Name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="Bass_level" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

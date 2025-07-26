@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="keybase_seatheaterpassenger_low" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="2" name="Plus_seatheaterpassenger_low" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="3" name="Minus_seatheaterpassenger_low" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="keybase_seatheaterpassenger_mid" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="5" name="Plus_seatheaterpassenger_mid" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="6" name="Minus_seatheaterpassenger_mid" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="keybase_seatheaterpassenger_high" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="8" name="Plus_seatheaterpassenger_high" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="9" name="Minus_seatheaterpassenger_high" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Low_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Mid_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="High_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="Low_Off" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="Mid_Off" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="High_Off" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

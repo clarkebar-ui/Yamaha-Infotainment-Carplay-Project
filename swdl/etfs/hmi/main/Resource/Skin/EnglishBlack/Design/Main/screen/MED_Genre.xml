@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="TEXT" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="Scrollbar_Table" type="SCROLLBAR" visible="true"></Item>
+		<Item id="13" name="MED_Menubar" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="14" name="USB" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="SMPLIST" type="SMPLIST" visible="true"></Item>
+	</Group>
+</SCREEN>

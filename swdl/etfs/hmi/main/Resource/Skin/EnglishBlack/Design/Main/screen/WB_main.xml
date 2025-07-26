@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Auto" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="ChannelItem" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="List" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="7" name="Menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="8" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Table_Freq_List" type="TABLE" visible="true"></Item>
+		<Item id="11" name="SeekBackground" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="12" name="SeekPress" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="SeekLeft" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="SeekRight" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="Channel" type="TEXTFIELD" visible="true"></Item>
+		<Item id="19" name="WB_Contents" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="WB_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="WB_Ps_Name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="DisableScr" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="Add_Preset" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="icon_alert" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="28" name="Channel_Details" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

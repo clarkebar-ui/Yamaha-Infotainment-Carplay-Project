@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="35" name="mLetQ" type="BUTTON"></Item>
+		<Item id="36" name="mLetW" type="BUTTON"></Item>
+		<Item id="37" name="mLetE" type="BUTTON"></Item>
+		<Item id="38" name="mLetR" type="BUTTON"></Item>
+		<Item id="39" name="mLetT" type="BUTTON"></Item>
+		<Item id="40" name="mLetY" type="BUTTON"></Item>
+		<Item id="41" name="mLetU" type="BUTTON"></Item>
+		<Item id="42" name="mLetI" type="BUTTON"></Item>
+		<Item id="43" name="mLetO" type="BUTTON"></Item>
+		<Item id="44" name="mLetP" type="BUTTON"></Item>
+		<Item id="45" name="mLetA" type="BUTTON"></Item>
+		<Item id="46" name="mLetS" type="BUTTON"></Item>
+		<Item id="47" name="mLetD" type="BUTTON"></Item>
+		<Item id="48" name="mLetF" type="BUTTON"></Item>
+		<Item id="49" name="mLetG" type="BUTTON"></Item>
+		<Item id="50" name="mLetH" type="BUTTON"></Item>
+		<Item id="51" name="mLetJ" type="BUTTON"></Item>
+		<Item id="52" name="mLetK" type="BUTTON"></Item>
+		<Item id="53" name="mLetL" type="BUTTON"></Item>
+		<Item id="54" name="mSignDot" type="BUTTON"></Item>
+		<Item id="55" name="mLetZ" type="BUTTON"></Item>
+		<Item id="56" name="mLetX" type="BUTTON"></Item>
+		<Item id="57" name="mLetC" type="BUTTON"></Item>
+		<Item id="58" name="mLetV" type="BUTTON"></Item>
+		<Item id="59" name="mLetB" type="BUTTON"></Item>
+		<Item id="60" name="mLetN" type="BUTTON"></Item>
+		<Item id="61" name="mLetM" type="BUTTON"></Item>
+		<Item id="62" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="63" name="mSignSpace" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

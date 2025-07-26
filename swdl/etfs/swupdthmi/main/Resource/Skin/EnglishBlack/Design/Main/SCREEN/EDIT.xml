@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Categories" type="BUTTON"></Item>
+		<Item id="9" name="preview" type="BUTTON"></Item>
+		<Item id="10" name="Next" type="BUTTON"></Item>
+		<Item id="13" name="icon_dst" type="IMAGEFIELD"></Item>
+		<Item id="14" name="Scrollber" type="IMAGEFIELD"></Item>
+		<Item id="15" name="TABLE" type="TABLE"></Item>
+		<Item id="16" name="Delete_icon_one" type="BUTTON"></Item>
+		<Item id="18" name="Delete_icon_four" type="BUTTON"></Item>
+		<Item id="19" name="Delete_icon_Six" type="BUTTON"></Item>
+		<Item id="20" name="Delete_icon_Five" type="BUTTON"></Item>
+		<Item id="21" name="Delete_icon_two" type="BUTTON"></Item>
+		<Item id="22" name="Delete_icon_three" type="BUTTON"></Item>
+		<Item id="23" name="cover_base_edit" type="IMAGEFIELD"></Item>
+		<Item id="24" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="25" name="Set" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

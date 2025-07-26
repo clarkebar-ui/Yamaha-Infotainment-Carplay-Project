@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="top_zone3" type="IMAGEFIELD"></Item>
+		<Item id="14" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="15" name="top_zone2" type="IMAGEFIELD"></Item>
+		<Item id="16" name="top_zone1" type="IMAGEFIELD"></Item>
+		<Item id="17" name="icon_top_limit" type="IMAGEFIELD"></Item>
+		<Item id="18" name="MPH" type="TEXTFIELD"></Item>
+		<Item id="19" name="ZERO" type="TEXTFIELD"></Item>
+		<Item id="20" name="Speed_limit" type="TEXTFIELD"></Item>
+		<Item id="21" name="Top_Zone4" type="IMAGEFIELD"></Item>
+		<Item id="22" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="23" name="icon_top_turn" type="IMAGEFIELD"></Item>
+		<Item id="24" name="Mile" type="TEXTFIELD"></Item>
+		<Item id="25" name="Zero_mile" type="TEXTFIELD"></Item>
+		<Item id="26" name="TOP_zone5" type="IMAGEFIELD"></Item>
+		<Item id="27" name="TOP_Zone6" type="IMAGEFIELD"></Item>
+		<Item id="28" name="ky_top_nav1" type="BUTTON"></Item>
+		<Item id="29" name="ky_top_nav2" type="BUTTON"></Item>
+		<Item id="30" name="ky_top_nav3" type="BUTTON"></Item>
+		<Item id="31" name="ky_top_nav4" type="BUTTON"></Item>
+		<Item id="32" name="Arrival" type="TEXTFIELD"></Item>
+		<Item id="33" name="Arrival_time" type="TEXTFIELD"></Item>
+		<Item id="34" name="Moving_time" type="TEXTFIELD"></Item>
+		<Item id="35" name="Moving" type="TEXTFIELD"></Item>
+		<Item id="36" name="My_icon" type="IMAGEFIELD"></Item>
+		<Item id="37" name="Current_street_name" type="TEXTFIELD"></Item>
+		<Item id="38" name="REFFUNCWIDGET_38" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="MenuBar" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="TimeShift" type="BUTTON"></Item>
+		<Item id="5" name="TagThis" type="BUTTON"></Item>
+		<Item id="6" name="Menu" type="BUTTON"></Item>
+		<Item id="8" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="9" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" id="10" name="SeekLeft" type="BUTTON"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" id="11" name="SeekRight" type="BUTTON"></Item>
+		<Item id="12" name="FREQ" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="21" name="TABLE_Freq" type="TABLE"></Item>
+		<Item id="25" name="Channel" type="TEXTFIELD"></Item>
+		<Item id="26" name="Song_Title" type="TEXTFIELD"></Item>
+		<Item id="27" name="Artist_Name" type="TEXTFIELD"></Item>
+		<Item id="28" name="Program_Name" type="TEXTFIELD"></Item>
+		<Item POS_CHANGED="true" POS_CONTINUE_CHANGE_ENDED="true" id="34" name="Scrollbar_Table" type="SCROLLBAR"></Item>
+		<Item id="35" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="36" name="Slider" type="IMAGEFIELD"></Item>
+	</Group>
+</SCREEN>

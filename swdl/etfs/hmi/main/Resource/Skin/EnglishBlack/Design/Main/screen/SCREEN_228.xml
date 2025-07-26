@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Setting" type="BUTTON"></Item>
+		<Item id="4" name="ON" type="BUTTON"></Item>
+		<Item id="5" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="6" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item id="7" name="SeekLeft" type="BUTTON"></Item>
+		<Item id="8" name="SeekRight" type="BUTTON"></Item>
+		<Item id="9" name="Preset" type="BUTTON"></Item>
+		<Item id="11" name="TABLE" type="TABLE"></Item>
+		<Item id="12" name="Status" type="TEXTFIELD"></Item>
+		<Item id="13" name="keybase" type="IMAGEFIELD"></Item>
+		<Item id="14" name="minus" type="BUTTON"></Item>
+		<Item id="15" name="plus" type="BUTTON"></Item>
+		<Item id="16" name="Level" type="IMAGEFIELD"></Item>
+		<Item id="17" name="Text" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

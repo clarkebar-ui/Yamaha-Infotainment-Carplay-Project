@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="2" name="TEXT" type="BUTTON"></Item>
+		<Item id="3" name="LIST" type="LIST"></Item>
+	</Group>
+</FUNCWIDGET>

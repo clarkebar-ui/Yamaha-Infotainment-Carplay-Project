@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home_NAV_top" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home_header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="Home_footer" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="Nav_Top_Arrival" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="5" name="NAV_Top_moving" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="6" name="Zoom_out" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="Audio" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="Menu" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Zoom_in" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="map_orientation" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="Destination" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="Phone" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="Left_top" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="Left_bottom" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="Right_top" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="Right_Bottom" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="Arrival_Button" type="BUTTON" visible="true"></Item>
+		<Item id="32" name="Moving_Button" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="NAV_not_ready" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="37" name="POI_Button" type="BUTTON" visible="true"></Item>
+		<Item id="38" name="Map_area_touch" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="Icon_function" type="BUTTON" visible="true"></Item>
+		<Item id="41" name="DispON" type="BUTTON" visible="true"></Item>
+		<Item id="50" name="Home_NAV_top_2" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="51" name="Inv_TBT" type="BUTTON" visible="true"></Item>
+		<Item id="52" name="Inv_Speed" type="BUTTON" visible="true"></Item>
+		<Item id="53" name="Inv_Weather_Alert" type="BUTTON" visible="true"></Item>
+		<Item id="54" name="Inv_Street_Name" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

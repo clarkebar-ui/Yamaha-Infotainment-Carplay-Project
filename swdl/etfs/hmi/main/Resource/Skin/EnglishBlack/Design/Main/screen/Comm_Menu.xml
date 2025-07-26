@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="11" name="Phone" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="Intercom" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="CB_Radio" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="SMS" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="Message" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="icon_cmn" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

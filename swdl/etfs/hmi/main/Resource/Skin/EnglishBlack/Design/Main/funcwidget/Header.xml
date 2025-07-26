@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Header" type="IMAGEFIELD" visible="true"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_DOUBLE_PRESSED="false" TOUCH_DOUBLE_RELEASED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="21" name="Back" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="Title" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="Icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="26" name="Time" type="TEXTFIELD" visible="true"></Item>
+		<Item id="27" name="Img_Back" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="28" name="Title_NoIcon" type="TEXTFIELD" visible="true"></Item>
+		<Item id="29" name="Title_Add_shortcut" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

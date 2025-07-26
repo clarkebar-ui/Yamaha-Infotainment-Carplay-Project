@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Popup" type="IMAGEFIELD"></Item>
+		<Item id="2" name="NAV_Software_versions" type="TEXTFIELD"></Item>
+		<Item id="3" name="Ok" type="BUTTON"></Item>
+		<Item id="4" name="Version_number_one" type="TEXTFIELD"></Item>
+		<Item id="5" name="NAV_database_versions" type="TEXTFIELD"></Item>
+		<Item id="6" name="Navigation_number_two" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

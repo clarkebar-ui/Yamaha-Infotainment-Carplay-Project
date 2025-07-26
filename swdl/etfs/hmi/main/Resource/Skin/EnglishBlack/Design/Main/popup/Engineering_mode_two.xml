@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="ON_Off" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="Load_two" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="Load_one" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="Load_three" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="EQ_Data_one" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="EQ_Data_two" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="EQ_Data_three" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="pop_base" type="IMAGEFIELD"></Item>
+	</Group>
+</POPUP>

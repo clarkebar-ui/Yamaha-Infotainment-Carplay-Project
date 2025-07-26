@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="8" name="Tune_Mix" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Scroll_Indicator" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="Scrollbar" type="SCROLLBAR" visible="true"></Item>
+		<Item id="11" name="TEXT" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="13" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="14" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+	</Group>
+</SCREEN>

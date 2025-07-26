@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="2" name="txtbase_speller" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="Clear" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="numbers" type="KEYBOARD" visible="true"></Item>
+		<Item id="6" name="Exclamation_mark" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="quote" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="dollar" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="tick" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="open" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="close" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="twiddle" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="bar" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="grave" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="curly_open" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="curly_close" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="semi" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="two_dots" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="plus" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="Star" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="less" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="More" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="Question_mark" type="BUTTON" visible="true"></Item>
+		<Item id="24" name="comma" type="BUTTON" visible="true"></Item>
+		<Item id="25" name="underscore" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="Enter" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="icon_shift_push" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="preview" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="Next" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="ABC" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="icon_keyboard" type="BUTTON" visible="true"></Item>
+		<Item id="32" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="mSignHash" type="BUTTON" visible="true"></Item>
+		<Item id="34" name="mSignPercent" type="BUTTON" visible="true"></Item>
+		<Item id="35" name="mSignAnd" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="mSignSubtraction" type="BUTTON" visible="true"></Item>
+		<Item id="37" name="mFuncBackspace" type="BUTTON" visible="true"></Item>
+		<Item id="38" name="mSignMultiplication" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="mSignDivision" type="BUTTON" visible="true"></Item>
+		<Item id="40" name="mSignSpace" type="BUTTON" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="Line_One" type="IMAGEFIELD"></Item>
+		<Item id="5" name="Line_two" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Line_three" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Line_four" type="IMAGEFIELD"></Item>
+		<Item id="8" name="Route" type="IMAGEFIELD"></Item>
+		<Item id="9" name="Mapstart" type="IMAGEFIELD"></Item>
+		<Item id="10" name="Push_one" type="BUTTON"></Item>
+		<Item id="11" name="Push_two" type="BUTTON"></Item>
+		<Item id="12" name="Push_three" type="BUTTON"></Item>
+		<Item id="13" name="Push_four" type="BUTTON"></Item>
+		<Item id="14" name="Top_base" type="IMAGEFIELD"></Item>
+		<Item id="15" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="17" name="Base_one" type="IMAGEFIELD"></Item>
+		<Item id="18" name="Icon_del_one" type="BUTTON"></Item>
+		<Item id="19" name="Base_two" type="IMAGEFIELD"></Item>
+		<Item id="20" name="Base_three" type="IMAGEFIELD"></Item>
+		<Item id="21" name="Icon_del_two" type="BUTTON"></Item>
+		<Item id="22" name="Icon_del_three" type="BUTTON"></Item>
+		<Item id="23" name="Txtbase" type="IMAGEFIELD"></Item>
+		<Item id="24" name="Up" type="BUTTON"></Item>
+		<Item id="25" name="Down" type="BUTTON"></Item>
+		<Item id="27" name="mapdest_one" type="IMAGEFIELD"></Item>
+		<Item id="28" name="mapdest_two" type="IMAGEFIELD"></Item>
+		<Item id="29" name="mapdest_three" type="IMAGEFIELD"></Item>
+		<Item id="30" name="Select_add_point" type="TEXTFIELD"></Item>
+		<Item id="31" name="Name_header" type="TEXTFIELD"></Item>
+		<Item id="32" name="Name_one" type="TEXTFIELD"></Item>
+		<Item id="33" name="Address_one" type="TEXTFIELD"></Item>
+		<Item id="38" name="Name_two" type="TEXTFIELD"></Item>
+		<Item id="39" name="Address_two" type="TEXTFIELD"></Item>
+		<Item id="40" name="Name_three" type="TEXTFIELD"></Item>
+		<Item id="41" name="Address_three" type="TEXTFIELD"></Item>
+		<Item id="42" name="Address_header" type="TEXTFIELD"></Item>
+		<Item id="43" name="Time_one" type="TEXTFIELD"></Item>
+		<Item id="44" name="mi_one" type="TEXTFIELD"></Item>
+		<Item id="45" name="mi_two" type="TEXTFIELD"></Item>
+		<Item id="46" name="Time_two" type="TEXTFIELD"></Item>
+		<Item id="47" name="mi_three" type="TEXTFIELD"></Item>
+		<Item id="48" name="Time_three" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

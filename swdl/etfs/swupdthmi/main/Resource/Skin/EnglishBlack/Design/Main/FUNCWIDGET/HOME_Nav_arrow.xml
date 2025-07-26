@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Arrow_five" type="IMAGEFIELD"></Item>
+		<Item id="2" name="Arrow_four" type="IMAGEFIELD"></Item>
+		<Item id="3" name="Arrow_six" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Arrow_seven" type="IMAGEFIELD"></Item>
+		<Item id="5" name="Arrow_two" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Arrow_three" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Arrow_one" type="IMAGEFIELD"></Item>
+		<Item id="8" name="Arrow_eight" type="IMAGEFIELD"></Item>
+		<Item id="9" name="Arrow_nine" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

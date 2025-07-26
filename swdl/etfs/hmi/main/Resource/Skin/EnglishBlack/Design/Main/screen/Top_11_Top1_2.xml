@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="top_zone3" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="Home_footer" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="28" name="Audio" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="Menu" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="Zoom_out" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="Zoom_in" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="My_icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="39" name="Home_NAV_top" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="40" name="Home_nav_arrow" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="41" name="Home_header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="43" name="Nav_Top_Arrival" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="44" name="NAV_Top_moving" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="45" name="Left_top" type="BUTTON" visible="true"></Item>
+		<Item id="46" name="Left_bottom" type="BUTTON" visible="true"></Item>
+		<Item id="47" name="Right_top" type="BUTTON" visible="true"></Item>
+		<Item id="48" name="Right_Bottom" type="BUTTON" visible="true"></Item>
+		<Item id="51" name="Arrival_Button" type="BUTTON" visible="true"></Item>
+		<Item id="52" name="Moving_Button" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

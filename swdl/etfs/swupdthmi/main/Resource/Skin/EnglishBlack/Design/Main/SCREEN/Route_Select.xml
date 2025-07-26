@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="nav_compass" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="Route_select" type="BUTTON"></Item>
+		<Item id="7" name="Icon_mapdest" type="IMAGEFIELD"></Item>
+		<Item id="8" name="route_mem_base" type="IMAGEFIELD"></Item>
+		<Item id="9" name="Go_text" type="BUTTON"></Item>
+		<Item id="10" name="Fastest" type="TEXTFIELD"></Item>
+		<Item id="11" name="route_td_base" type="IMAGEFIELD"></Item>
+		<Item id="12" name="icon_mapstart" type="IMAGEFIELD"></Item>
+		<Item id="13" name="TEXT" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

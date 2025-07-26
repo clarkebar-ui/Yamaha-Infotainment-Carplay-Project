@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+		<Item id="3" name="menubar" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="5" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="TEXT" type="BUTTON"></Item>
+		<Item id="7" name="LIST" type="LIST"></Item>
+		<Item id="9" name="UP" type="BUTTON"></Item>
+		<Item id="10" name="Down" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

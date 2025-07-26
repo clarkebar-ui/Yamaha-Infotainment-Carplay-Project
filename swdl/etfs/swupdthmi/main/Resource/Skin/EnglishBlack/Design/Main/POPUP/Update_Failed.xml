@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Text_Bg" type="IMAGEFIELD"></Item>
+		<Item id="2" name="Update_was_failed" type="TEXTFIELD"></Item>
+		<Item id="3" name="Retry_update" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

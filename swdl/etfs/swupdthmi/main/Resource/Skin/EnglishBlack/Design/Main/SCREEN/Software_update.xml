@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="6" name="Transparent_BG" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="Text_Bg" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="8" name="waiting_frame" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="Switch_off" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="Updating_now" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="UpdateProgress" type="PROGRESSBAR" visible="true"></Item>
+		<Item id="15" name="percent" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

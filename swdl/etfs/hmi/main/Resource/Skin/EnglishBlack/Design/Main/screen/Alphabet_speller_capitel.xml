@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="Alphabet_speller_cap" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="6" name="Add_Shortcut" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

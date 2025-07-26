@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home_Center" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="7" name="Audio_FM" type="TEXTFIELD"></Item>
+		<Item id="13" name="Freq_channel_name" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

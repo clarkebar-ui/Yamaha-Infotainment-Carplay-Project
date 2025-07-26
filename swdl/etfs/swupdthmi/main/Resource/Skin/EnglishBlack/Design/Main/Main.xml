@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<ScreenSet>
+		<Screen id="225" name="Software_update" specimg="" type="SCREEN"></Screen>
+	</ScreenSet>
+	<PopupSet>
+		<Popup id="39" name="Update_Details" specimg="" type="POPUP"></Popup>
+	</PopupSet>
+	<FuncWidgetSet></FuncWidgetSet>
+	<CtrlWidgetSet></CtrlWidgetSet>
+</Root>

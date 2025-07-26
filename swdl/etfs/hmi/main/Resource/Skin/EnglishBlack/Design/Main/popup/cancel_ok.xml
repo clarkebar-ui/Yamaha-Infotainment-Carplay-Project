@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="popup_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="Cancel" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="Scrollbar_Table" type="SCROLLBAR" visible="true"></Item>
+		<Item id="5" name="Text" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

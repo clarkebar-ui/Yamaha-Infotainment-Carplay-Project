@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="23" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+		<Item id="24" name="NAV_weather_onmap" type="REFFUNCWIDGET"></Item>
+		<Item id="25" name="sxmbase" type="IMAGEFIELD"></Item>
+		<Item id="26" name="sxmu_icon" type="IMAGEFIELD"></Item>
+		<Item id="29" name="Current" type="TEXTFIELD"></Item>
+		<Item id="30" name="Air_flow" type="TEXTFIELD"></Item>
+		<Item id="31" name="Chance_of_rain" type="TEXTFIELD"></Item>
+		<Item id="32" name="Fahrenheit_digit" type="TEXTFIELD"></Item>
+		<Item id="33" name="Air_condition" type="TEXTFIELD"></Item>
+		<Item id="34" name="Fahrenheit" type="TEXTFIELD"></Item>
+		<Item id="35" name="Home" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

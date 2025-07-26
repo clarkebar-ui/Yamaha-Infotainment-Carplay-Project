@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="29" name="All_On_Off" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="Media" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="Communication" type="BUTTON" visible="true"></Item>
+		<Item id="32" name="Navi" type="BUTTON" visible="true"></Item>
+		<Item id="33" name="Phone" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="34" name="Speaker" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="35" name="Media_1" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="36" name="Communication_1" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="37" name="Navi_1" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="38" name="Phone_1" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="39" name="Navi_2" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="40" name="Communication_2" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="41" name="Media_2" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="42" name="RiderHeadset" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="43" name="PassHeadset" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="44" name="Media_3" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="45" name="Communication_3" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="46" name="Navi_3" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="47" name="Phone_2" type="BUTTON" visible="true"></Item>
+		<Item id="51" name="Phone_3" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_PRESSED="false" TOUCH_RELEASED="false" id="6" name="Map" type="BUTTON"></Item>
+		<Item id="7" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="8" name="Go" type="BUTTON"></Item>
+		<Item id="9" name="Save" type="BUTTON"></Item>
+		<Item id="10" name="Info" type="BUTTON"></Item>
+		<Item id="11" name="Home" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

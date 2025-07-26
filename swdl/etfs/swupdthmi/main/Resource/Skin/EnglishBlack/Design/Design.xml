@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root scnbkg="0" fontlib="..\Font\Font.ini">
+	<DesignPartSet>
+		<DesignPart id="0" name="Main" type="DESIGNPART"></DesignPart>
+	</DesignPartSet>
+</Root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Road_information" type="TEXTFIELD"></Item>
+		<Item id="2" name="Traffic_detail" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

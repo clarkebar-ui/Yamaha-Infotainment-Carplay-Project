@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="4" name="Next_main" type="IMAGEFIELD"></Item>
+		<Item id="5" name="Last_main" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Data_input" type="BUTTON"></Item>
+		<Item id="7" name="Next_maintenance" type="TEXTFIELD"></Item>
+		<Item id="8" name="Next_date" type="TEXTFIELD"></Item>
+		<Item id="9" name="Last_maintenance" type="TEXTFIELD"></Item>
+		<Item id="10" name="Last_date" type="TEXTFIELD"></Item>
+		<Item id="11" name="Parts_list" type="BUTTON"></Item>
+		<Item id="12" name="Your_Dealer" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

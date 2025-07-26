@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Delete" type="BUTTON"></Item>
+		<Item id="2" name="Move" type="BUTTON"></Item>
+	</Group>
+</POPUP>

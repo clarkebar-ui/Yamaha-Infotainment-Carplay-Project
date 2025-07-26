@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="4" name="Text" type="TEXTFIELD"></Item>
+		<Item id="5" name="rcd_txtbase" type="IMAGEFIELD"></Item>
+	</Group>
+</SCREEN>

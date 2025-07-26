@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="3" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="Scroll_Indicator" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="menubar" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="14" name="UP" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="Down" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="Audio_setting_two" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="23" name="Slidebar" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="24" name="Slidebar_LIST" type="LIST" visible="true"></Item>
+		<Item id="25" name="Bass" type="TEXTFIELD" visible="true"></Item>
+		<Item id="26" name="Treble" type="TEXTFIELD" visible="true"></Item>
+		<Item id="27" name="Fader" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

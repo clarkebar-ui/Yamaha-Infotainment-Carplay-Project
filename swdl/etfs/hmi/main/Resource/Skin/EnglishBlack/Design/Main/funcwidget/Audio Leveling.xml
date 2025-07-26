@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="12" name="TXTbase_one" type="IMAGEFIELD"></Item>
+		<Item id="13" name="Minus_Bass" type="BUTTON"></Item>
+		<Item id="14" name="Plus_Bass" type="BUTTON"></Item>
+		<Item id="15" name="Source_Name" type="TEXTFIELD"></Item>
+		<Item id="16" name="Bass_level" type="TEXTFIELD"></Item>
+		<Item id="17" name="SVC_Speed" type="REFFUNCWIDGET"></Item>
+		<Item id="18" name="Gain_speed" type="REFFUNCWIDGET"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Next" type="BUTTON"></Item>
+		<Item id="4" name="View _map_off" type="BUTTON"></Item>
+		<Item id="6" name="nav_compass" type="IMAGEFIELD"></Item>
+		<Item id="9" name="Prev" type="BUTTON"></Item>
+		<Item id="10" name="map_infobase" type="IMAGEFIELD"></Item>
+		<Item id="11" name="Time" type="TEXTFIELD"></Item>
+		<Item id="12" name="Street" type="TEXTFIELD"></Item>
+		<Item id="13" name="Distance" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

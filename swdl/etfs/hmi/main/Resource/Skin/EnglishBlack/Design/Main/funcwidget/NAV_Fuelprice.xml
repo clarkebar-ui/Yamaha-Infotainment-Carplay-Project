@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Brand" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="Premium" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="Refresh" type="BUTTON" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

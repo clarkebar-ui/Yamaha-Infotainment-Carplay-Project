@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="44" name="Home_Center" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="46" name="Home_footer" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="57" name="TOP" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="58" name="Home_header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="59" name="Text_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="60" name="Fuel_consumpt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="61" name="AVG_Fuel" type="TEXTFIELD" visible="true"></Item>
+		<Item id="63" name="Unit_F" type="TEXTFIELD" visible="true"></Item>
+		<Item id="64" name="kpa" type="TEXTFIELD" visible="true"></Item>
+		<Item id="67" name="Unit_R" type="TEXTFIELD" visible="true"></Item>
+		<Item id="68" name="MPG" type="TEXTFIELD" visible="true"></Item>
+		<Item id="69" name="Unit_fuel" type="TEXTFIELD" visible="true"></Item>
+		<Item id="70" name="Unit_fuel_AVG" type="TEXTFIELD" visible="true"></Item>
+		<Item id="71" name="MPG_AVG" type="TEXTFIELD" visible="true"></Item>
+		<Item id="72" name="Txt_second_three_screen" type="TEXTFIELD" visible="true"></Item>
+		<Item id="78" name="Text_one_Two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="84" name="Text_one_Three" type="TEXTFIELD" visible="true"></Item>
+		<Item id="93" name="IG_on_Timer" type="TEXTFIELD" visible="true"></Item>
+		<Item id="94" name="h_unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="95" name="h_value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="96" name="h_unit_two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="97" name="h_value_two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="98" name="IG_on_Timer_two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="99" name="IG_on_Timer_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="100" name="h_value_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="101" name="h_unit_one" type="TEXTFIELD" visible="true"></Item>
+		<Item id="109" name="DispON" type="BUTTON" visible="true"></Item>
+		<Item id="110" name="icon_hp" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="111" name="Unit_F_2" type="TEXTFIELD" visible="true"></Item>
+		<Item id="112" name="Unit_F_3" type="TEXTFIELD" visible="true"></Item>
+		<Item id="113" name="min_value_1" type="TEXTFIELD" visible="true"></Item>
+		<Item id="114" name="min_value_2" type="TEXTFIELD" visible="true"></Item>
+		<Item id="115" name="min_value_3" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

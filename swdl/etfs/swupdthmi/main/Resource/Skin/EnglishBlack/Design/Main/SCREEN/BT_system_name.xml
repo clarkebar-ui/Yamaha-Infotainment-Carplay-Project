@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="5" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="Show_system_name" type="BUTTON"></Item>
+		<Item id="8" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="11" name="Set_default_name" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

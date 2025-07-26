@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="topbase_footer" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="icon_top_sxm" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="icon_top_bt" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="icon_top_mail" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="5" name="icon_top_ant" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="icon_top_cb" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="icon_top_int" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="11" name="icon_top_voice" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="12" name="icon_top_mute" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="icon_top_aud" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="16" name="Track_Detail" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="icon_top_prev_push_sel" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="icon_top_next_push_sel" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="Music_Title" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="icon_Music" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="icon_title_pandora" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="28" name="icon_top_ant_phone" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

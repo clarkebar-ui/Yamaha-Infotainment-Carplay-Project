@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="12" name="List" type="BUTTON"></Item>
+		<Item id="13" name="Music_menu" type="BUTTON"></Item>
+		<Item id="14" name="icon_setting" type="BUTTON"></Item>
+		<Item id="17" name="ALBUM" type="TEXTFIELD"></Item>
+		<Item id="18" name="Album_title_rst" type="TEXTFIELD"></Item>
+		<Item id="19" name="TRACK" type="TEXTFIELD"></Item>
+		<Item id="20" name="Music_title_uvw" type="TEXTFIELD"></Item>
+		<Item id="21" name="ARTIST" type="TEXTFIELD"></Item>
+		<Item id="22" name="Artist_name_xyz" type="TEXTFIELD"></Item>
+		<Item id="23" name="Menu_2" type="REFFUNCWIDGET"></Item>
+		<Item id="24" name="Device_Name" type="TEXTFIELD"></Item>
+		<Item id="25" name="Aud_Playback" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

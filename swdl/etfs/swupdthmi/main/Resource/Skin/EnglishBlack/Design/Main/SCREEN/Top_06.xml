@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home_Center" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="6" name="Artwork" type="IMAGEFIELD"></Item>
+		<Item id="7" name="ALBUM" type="TEXTFIELD"></Item>
+		<Item id="8" name="Album_title" type="TEXTFIELD"></Item>
+		<Item id="9" name="TRACK" type="TEXTFIELD"></Item>
+		<Item id="10" name="Music_title" type="TEXTFIELD"></Item>
+		<Item id="11" name="ARTIST" type="TEXTFIELD"></Item>
+		<Item id="12" name="Artist_name" type="TEXTFIELD"></Item>
+		<Item id="13" name="Audio_ipod" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

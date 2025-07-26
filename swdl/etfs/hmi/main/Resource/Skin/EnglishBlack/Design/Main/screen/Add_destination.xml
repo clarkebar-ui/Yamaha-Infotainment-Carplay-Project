@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="8" name="Route" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="Mapstart" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="Top_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="15" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="23" name="Txtbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="30" name="Select_add_point" type="TEXTFIELD" visible="true"></Item>
+		<Item id="31" name="Name_header" type="TEXTFIELD" visible="true"></Item>
+		<Item id="42" name="Address_header" type="TEXTFIELD" visible="true"></Item>
+		<Item id="49" name="Add_destination" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="52" name="Reroute" type="BUTTON" visible="true"></Item>
+		<Item id="53" name="Scrollbar" type="SCROLLBAR" visible="true"></Item>
+		<Item id="55" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="57" name="Line" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="58" name="Push" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

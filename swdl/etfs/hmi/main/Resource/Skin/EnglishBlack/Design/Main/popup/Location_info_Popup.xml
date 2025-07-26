@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="2" name="Headline" type="TEXTFIELD" visible="true"></Item>
+		<Item id="3" name="Details" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

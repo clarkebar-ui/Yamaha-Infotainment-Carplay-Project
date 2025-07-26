@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="12" name="ON" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="13" name="OFF" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="Status" type="TEXTFIELD" visible="true"></Item>
+		<Item id="32" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="33" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="34" name="icon_phone" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

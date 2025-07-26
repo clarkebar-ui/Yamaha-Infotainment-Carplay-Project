@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="txtbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="4" name="Spell_Street" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="7" name="Spell_City" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="8" name="State" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="10" name="Set" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="StateTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="CityTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="StreetTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="HouseTxt" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="Add_Shortcut" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="ZipCode" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="zipcodeText" type="TEXTFIELD" visible="true"></Item>
+		<Item id="23" name="United_States" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

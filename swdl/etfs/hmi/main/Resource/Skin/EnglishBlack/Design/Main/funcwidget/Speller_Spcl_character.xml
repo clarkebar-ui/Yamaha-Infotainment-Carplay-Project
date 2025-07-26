@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="3" name="Speller_Keypad_Special_char_one" type="KEYBOARD" visible="true"></Item>
+		<Item id="5" name="Speller_Keypad_Special_char_two" type="KEYBOARD" visible="true"></Item>
+		<Item id="6" name="Speller_Keypad_Special_char_three" type="KEYBOARD" visible="true"></Item>
+		<Item id="9" name="Edit_field" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

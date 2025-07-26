@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="1" name="Home" type="BUTTON"></Item>
+	</Group>
+</FUNCWIDGET>

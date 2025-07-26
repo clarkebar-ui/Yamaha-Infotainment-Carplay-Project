@@ -1,0 +1,7 @@
+Filename::/usr/var/volatile/qdb/pim
+SchemaFile::/etc/Bluetooth/wicomeConf/pim.sql
+DataSchemaFile::/etc/Bluetooth/wicomeConf/pim_data.sql
+ClientSchemaFile::/etc/Bluetooth/wicomeConf/pim_upgrade.sql
+Collation::general@libmedia_custom_charUTF8.so
+Compression::lzo
+BackupDir::/usr/var/qdb_ram/pim/pim1,/usr/var/qdb_ram/pim/pim2

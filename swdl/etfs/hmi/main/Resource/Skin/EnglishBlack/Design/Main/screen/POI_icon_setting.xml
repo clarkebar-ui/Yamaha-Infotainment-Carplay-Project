@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="6" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="11" name="Show_all" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="Show_none" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="POI" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="15" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="24" name="Scrollbar_Table" type="SCROLLBAR" visible="true"></Item>
+		<Item id="26" name="Scroll_Indicator" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

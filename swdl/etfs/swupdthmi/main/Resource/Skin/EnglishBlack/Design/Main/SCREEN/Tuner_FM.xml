@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="52" name="Auto" type="BUTTON"></Item>
+		<Item id="53" name="ChannelItem" type="BUTTON"></Item>
+		<Item id="54" name="List" type="BUTTON"></Item>
+		<Item id="55" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="57" name="Channel" type="TEXTFIELD"></Item>
+		<Item id="58" name="Contents" type="TEXTFIELD"></Item>
+		<Item id="59" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="61" name="Menu" type="REFFUNCWIDGET"></Item>
+		<Item id="62" name="Setting" type="BUTTON"></Item>
+		<Item id="63" name="Table_Freq_List" type="TABLE"></Item>
+		<Item id="64" name="SCROLLBAR" type="IMAGEFIELD"></Item>
+		<Item id="65" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="66" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="67" name="SeekLeft" type="BUTTON"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="68" name="SeekRight" type="BUTTON"></Item>
+		<Item id="69" name="Ps_Name" type="TEXTFIELD"></Item>
+		<Item id="70" name="Unit" type="TEXTFIELD"></Item>
+		<Item id="71" name="Scrollbar_Table" type="SCROLLBAR"></Item>
+	</Group>
+</SCREEN>

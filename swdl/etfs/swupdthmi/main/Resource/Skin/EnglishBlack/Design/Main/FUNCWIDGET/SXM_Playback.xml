@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_CONTINUE_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="1" name="PrevRewind" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="2" name="PlayPause" type="BUTTON"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="3" name="NextForward" type="BUTTON"></Item>
+		<Item id="4" name="Img_PrevRewind" type="IMAGEFIELD"></Item>
+		<Item id="5" name="Img_PlayPause" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Img_NextForward" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

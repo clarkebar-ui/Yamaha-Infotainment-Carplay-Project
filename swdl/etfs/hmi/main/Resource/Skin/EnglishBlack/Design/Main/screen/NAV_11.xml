@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="4" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="5" name="Refresh" type="BUTTON"></Item>
+		<Item id="6" name="Premium" type="BUTTON"></Item>
+		<Item id="7" name="Brand" type="BUTTON"></Item>
+		<Item id="8" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="9" name="Cover_base" type="IMAGEFIELD"></Item>
+		<Item id="10" name="TEXT" type="BUTTON"></Item>
+		<Item id="11" name="LIST" type="LIST"></Item>
+		<Item id="12" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="13" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="4" name="1" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="5" name="2" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="6" name="3" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="7" name="4" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="8" name="5" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="9" name="6" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="10" name="7" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="11" name="8" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="12" name="9" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="13" name="Hash" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="14" name="Star" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="15" name="0" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="20" name="Call" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="22" name="PhnBack" type="BUTTON" visible="true"></Item>
+		<Item id="24" name="txtPhNo" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="PhoneNo" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="TEXT" type="BUTTON"></Item>
+		<Item id="5" name="Scrollbar_Table" type="SCROLLBAR"></Item>
+		<Item id="7" name="Album_Title" type="TEXTFIELD"></Item>
+		<Item id="8" name="Artist_name" type="TEXTFIELD"></Item>
+		<Item id="10" name="ky_5_n_push_sel_aud_10" type="BUTTON"></Item>
+		<Item id="11" name="USB2_11" type="TEXTFIELD"></Item>
+		<Item id="12" name="SMPLIST" type="SMPLIST"></Item>
+	</Group>
+</SCREEN>

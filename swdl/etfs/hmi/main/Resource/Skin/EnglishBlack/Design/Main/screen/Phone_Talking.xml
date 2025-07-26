@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="3" name="Mick" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="4" name="Endcall" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="9" name="speaker" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Phone_number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Dialling_message" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="icon_phone" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="Phone_25" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="Phone_Led_26" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="27" name="Phone_Img_27" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="28" name="Call_transfer" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

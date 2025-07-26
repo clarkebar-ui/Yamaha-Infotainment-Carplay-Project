@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="view_u" type="IMAGEFIELD"></Item>
+		<Item id="3" name="view_l" type="IMAGEFIELD"></Item>
+		<Item id="4" name="view_d" type="IMAGEFIELD"></Item>
+		<Item id="5" name="view_r" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Target" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Zoom_minus" type="IMAGEFIELD"></Item>
+		<Item id="8" name="Zoom_plus" type="IMAGEFIELD"></Item>
+		<Item id="9" name="nav_compass" type="IMAGEFIELD"></Item>
+		<Item id="11" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="12" name="View_map_off" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

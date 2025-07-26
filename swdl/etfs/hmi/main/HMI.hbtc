@@ -1,0 +1,28 @@
+HBTracePersistence 1.0.0
+# call with ...exe --tp=traceConfig.hbtc
+# Child Debug Trace Config
+# 1st parameter
+#   TRACE_FILTER_NONE  = 0x00;  // trace nothing
+#   TRACE_FILTER_ERR   = 0x02;  // trace an error
+#   TRACE_FILTER_SCOPE = 0x04;  // trace function's entry and exit
+#   TRACE_FILTER_BLOCK = 0x08;  // executed block in a function
+#   TRACE_FILTER_WARN  = 0x20;  // trace a warning
+#   TRACE_FILTER_MSG   = 0x40;  // trace a runtime message
+#   TRACE_FILTER_ALL   = 0xFF;  // trace everything
+#
+# 00 - disable all message types
+# ff - enable all message types
+# 22 - Warnings and errors only
+# 62 - Messages, Warnings and Errors only,
+#     neither entry/exit messages nor debug-blocks
+#
+# 2nd parameter
+#
+#   MEDIA_NONE         = 0x00;  // don't trace anything
+#   MEDIA_TRACE_CLIENT = 0x01;  // send a message to the trace client (default)
+#   MEDIA_KERNEL_TRACE = 0x02;  // create a kernel trace user event
+#   MEDIA_SLOG         = 0x04;  // create an slog entry
+#   MEDIA_CONSOLE      = 0x08;  // write messages to console
+#   MEDIA_ALL          = 0xFF;  // use all supported media
+[HMI]
+* FF 01

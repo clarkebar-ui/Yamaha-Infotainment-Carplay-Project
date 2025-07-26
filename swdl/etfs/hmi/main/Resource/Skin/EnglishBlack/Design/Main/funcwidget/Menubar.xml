@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_LONG_PRESSED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="2" name="FM" type="BUTTON" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

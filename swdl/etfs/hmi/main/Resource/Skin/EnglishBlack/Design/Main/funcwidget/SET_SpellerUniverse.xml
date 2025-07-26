@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="SET_Speller_Capital_letters" type="KEYBOARD"></Item>
+		<Item id="2" name="SET_Speller_Small_letters" type="KEYBOARD"></Item>
+		<Item id="3" name="SET_speller_special_characters" type="KEYBOARD"></Item>
+		<Item id="4" name="SET_Spl_Keypad_ABC_one" type="KEYBOARD"></Item>
+		<Item id="5" name="SET_Spl_Keypad_ABC_two" type="KEYBOARD"></Item>
+		<Item id="6" name="SET_Spl_Keypad_ABC_three" type="KEYBOARD"></Item>
+		<Item id="7" name="SET_Spl_Specl_Char_one" type="KEYBOARD"></Item>
+		<Item id="8" name="SET_Spl_Specl_Char_two" type="KEYBOARD"></Item>
+		<Item id="9" name="SET_Spl_Specl_Char_three" type="KEYBOARD"></Item>
+		<Item id="10" name="SET_Speller_Keypad_Numbers" type="KEYBOARD"></Item>
+		<Item id="11" name="Edit_field" type="IMAGEFIELD"></Item>
+		<Item id="12" name="Edit_field_text" type="EDITFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

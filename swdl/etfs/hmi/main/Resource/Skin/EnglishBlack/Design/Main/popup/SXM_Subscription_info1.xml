@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="2" name="Popup" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="NEXT" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="ESN" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Radio" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Call" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="Your_ESN_number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Audio_subscribed" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Number" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

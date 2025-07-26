@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="4" name="mSignExclamation" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="mSignQuotation" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="mSignDollar" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="mSignApostrophe" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="mSignLeftParan" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="mSignRightParan" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="mSignTilde" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="mSignVerbar" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="mSignGraveAccent" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="mSignLeftCurlyBrack" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="mSignRightCurlyBrack" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="mSignSemiColon" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="mSignColon" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="mSignPlus" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="mSignAsterisk" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="mSignLessthan" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="mSignGreaterthan" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="mSignQuesnMark" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="mSignComma" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="msignUnderScore" type="BUTTON" visible="true"></Item>
+		<Item id="24" name="mFuncEnter" type="BUTTON" visible="true"></Item>
+		<Item id="31" name="mSignHash" type="BUTTON" visible="true"></Item>
+		<Item id="32" name="mSignPercent" type="BUTTON" visible="true"></Item>
+		<Item id="33" name="mSignAmpersand" type="BUTTON" visible="true"></Item>
+		<Item id="34" name="mSignMinus" type="BUTTON" visible="true"></Item>
+		<Item id="35" name="mSignAt" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="mSignDot" type="BUTTON" visible="true"></Item>
+		<Item id="37" name="mSignSlash" type="BUTTON" visible="true"></Item>
+		<Item id="38" name="mSignSpace" type="BUTTON" visible="true"></Item>
+		<Item id="41" name="mFuncNumber" type="BUTTON" visible="true"></Item>
+		<Item id="42" name="mFuncABC" type="BUTTON" visible="true"></Item>
+		<Item id="43" name="mFuncCapsLock" type="BUTTON" visible="true"></Item>
+		<Item id="45" name="mFuncKeyboard" type="BUTTON" visible="true"></Item>
+		<Item id="46" name="mFuncDelete" type="BUTTON" visible="true"></Item>
+	</Group>
+</CTRLWIDGET>

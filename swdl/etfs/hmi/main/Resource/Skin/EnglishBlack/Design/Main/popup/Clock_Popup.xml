@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="TEXT" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="LIST" type="LIST" visible="true"></Item>
+		<Item id="4" name="Back" type="BUTTON" visible="true"></Item>
+	</Group>
+</POPUP>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="5" name="Plus_sp_r" type="BUTTON"></Item>
+		<Item id="6" name="Minus_sp_r" type="BUTTON"></Item>
+		<Item id="8" name="Icon" type="IMAGEFIELD"></Item>
+		<Item id="9" name="Sensitivity" type="TEXTFIELD"></Item>
+		<Item id="10" name="Volume_Text" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

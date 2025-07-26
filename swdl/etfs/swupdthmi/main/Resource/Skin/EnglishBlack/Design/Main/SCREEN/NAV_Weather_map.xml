@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="21" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+		<Item id="23" name="NAV_weather_onmap" type="REFFUNCWIDGET"></Item>
+		<Item id="24" name="Map_area" type="IMAGEFIELD"></Item>
+		<Item id="25" name="Home" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="TEXT" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="3" name="LIST" type="LIST"></Item>
+		<Item POS_CHANGED="true" id="4" name="Scrollbar_List" type="SCROLLBAR"></Item>
+		<Item id="5" name="SCROLLBAR" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Home" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

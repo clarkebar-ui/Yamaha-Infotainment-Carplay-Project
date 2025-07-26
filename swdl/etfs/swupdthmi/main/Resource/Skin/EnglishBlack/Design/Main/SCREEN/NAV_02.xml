@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="sxmbase" type="IMAGEFIELD"></Item>
+		<Item id="4" name="sxmu_icon" type="IMAGEFIELD"></Item>
+		<Item id="5" name="On_map" type="BUTTON"></Item>
+		<Item id="6" name="Time" type="BUTTON"></Item>
+		<Item id="7" name="Day" type="BUTTON"></Item>
+		<Item id="8" name="City_State" type="TEXTFIELD"></Item>
+		<Item id="10" name="Recieved_day_time" type="TEXTFIELD"></Item>
+		<Item id="11" name="Current" type="TEXTFIELD"></Item>
+		<Item id="12" name="Air_flow" type="TEXTFIELD"></Item>
+		<Item id="13" name="Chance_of_rain" type="TEXTFIELD"></Item>
+		<Item id="14" name="Fahrenheit_digit" type="TEXTFIELD"></Item>
+		<Item id="15" name="Air_condition" type="TEXTFIELD"></Item>
+		<Item id="16" name="Fahrenheit" type="TEXTFIELD"></Item>
+		<Item id="21" name="Reflesh" type="BUTTON"></Item>
+		<Item id="22" name="Change_location" type="BUTTON"></Item>
+		<Item id="23" name="SiriusXM_info" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

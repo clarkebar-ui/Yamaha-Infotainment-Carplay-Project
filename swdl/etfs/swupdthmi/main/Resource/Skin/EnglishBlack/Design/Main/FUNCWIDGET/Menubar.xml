@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="1" name="Back" type="BUTTON"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_LONG_PRESSED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="2" name="FM" type="BUTTON"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="6" name="Forword" type="BUTTON"></Item>
+		<Item ITEM_SCROLLING="false" SELECT_CHANGED="true" WANT_NEXT_PAGE="false" WANT_PREV_PAGE="false" id="15" name="LIST" type="LIST"></Item>
+	</Group>
+</FUNCWIDGET>

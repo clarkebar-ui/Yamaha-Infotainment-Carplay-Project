@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="USB_one" type="BUTTON"></Item>
+		<Item id="2" name="USB_two" type="BUTTON"></Item>
+	</Group>
+</FUNCWIDGET>

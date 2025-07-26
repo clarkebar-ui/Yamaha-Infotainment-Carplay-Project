@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item TOUCH_PRESSED="true" id="2" name="TEXT" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="3" name="LIST" type="LIST"></Item>
+		<Item id="23" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="24" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="25" name="txtbase" type="IMAGEFIELD"></Item>
+		<Item id="26" name="CurrentEntry" type="TEXTFIELD"></Item>
+		<Item id="27" name="Spell" type="BUTTON"></Item>
+		<Item id="28" name="CurrentEntry_Text" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="TEXT" type="BUTTON"></Item>
+		<Item id="2" name="LIST" type="LIST"></Item>
+		<Item id="3" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="4" name="check_box_one" type="IMAGEFIELD"></Item>
+		<Item id="5" name="check_box_two" type="IMAGEFIELD"></Item>
+		<Item id="6" name="check_box_three" type="IMAGEFIELD"></Item>
+		<Item id="7" name="check_box_four" type="IMAGEFIELD"></Item>
+		<Item id="8" name="Back" type="BUTTON"></Item>
+		<Item id="9" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+	</Group>
+</POPUP>

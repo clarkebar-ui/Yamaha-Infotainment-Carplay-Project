@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Text" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="TABLE" type="TABLE" visible="true"></Item>
+		<Item id="4" name="Pandora_text" type="BUTTON" visible="true"></Item>
+	</Group>
+</POPUP>

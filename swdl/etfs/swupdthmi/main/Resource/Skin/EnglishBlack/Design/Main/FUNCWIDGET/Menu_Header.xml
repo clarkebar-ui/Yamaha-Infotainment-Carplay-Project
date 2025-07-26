@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="titlebase" type="IMAGEFIELD"></Item>
+		<Item id="6" name="Menu" type="BUTTON"></Item>
+		<Item id="7" name="Icon_Time" type="IMAGEFIELD"></Item>
+		<Item id="8" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

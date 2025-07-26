@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="HOME" type="REFFUNCWIDGET"></Item>
+		<Item id="2" name="TXT_UP" type="TEXTFIELD"></Item>
+		<Item id="3" name="IMG_UP" type="IMAGEFIELD"></Item>
+		<Item id="4" name="TXT_LEFT" type="TEXTFIELD"></Item>
+		<Item id="5" name="IMG_LEFT" type="IMAGEFIELD"></Item>
+		<Item id="6" name="TXT_RIGHT" type="TEXTFIELD"></Item>
+		<Item id="7" name="IMG_RIGHT" type="IMAGEFIELD"></Item>
+		<Item id="8" name="TXT_DOWN" type="TEXTFIELD"></Item>
+		<Item id="9" name="IMG_DOWN" type="IMAGEFIELD"></Item>
+		<Item id="10" name="TXT_SELECT" type="TEXTFIELD"></Item>
+		<Item id="11" name="IMG_SELECT" type="IMAGEFIELD"></Item>
+		<Item id="12" name="TXT_REAR_VOL_DEC" type="TEXTFIELD"></Item>
+		<Item id="13" name="IMG_REAR_VOL_DEC" type="IMAGEFIELD"></Item>
+		<Item id="14" name="TXT_REAR_SEEK_DEC" type="TEXTFIELD"></Item>
+		<Item id="15" name="IMG_REAR_SEEK_DEC" type="IMAGEFIELD"></Item>
+		<Item id="16" name="TXT_REAR_SOURCE" type="TEXTFIELD"></Item>
+		<Item id="17" name="IMG_REAR_SOURCE" type="IMAGEFIELD"></Item>
+		<Item id="18" name="TXT_REAR_SEEK_INC" type="TEXTFIELD"></Item>
+		<Item id="19" name="IMG_REAR_SEEK_INC" type="IMAGEFIELD"></Item>
+		<Item id="20" name="TXT_REAR_PTT" type="TEXTFIELD"></Item>
+		<Item id="21" name="IMG_REAR_PTT" type="IMAGEFIELD"></Item>
+		<Item id="22" name="TXT_HOME" type="TEXTFIELD"></Item>
+		<Item id="23" name="IMG_HOME" type="IMAGEFIELD"></Item>
+		<Item id="24" name="TXT_VOL_DEC" type="TEXTFIELD"></Item>
+		<Item id="25" name="IMG_VOL_DEC" type="IMAGEFIELD"></Item>
+		<Item id="26" name="TXT_PTT" type="TEXTFIELD"></Item>
+		<Item id="27" name="IMG_PTT" type="IMAGEFIELD"></Item>
+		<Item id="28" name="TXT_VOL_INC" type="TEXTFIELD"></Item>
+		<Item id="29" name="IMG_VOL_INC" type="IMAGEFIELD"></Item>
+		<Item id="30" name="TXT_REAR_VOL_INC" type="TEXTFIELD"></Item>
+		<Item id="31" name="IMG_REAR_VOL_INC" type="IMAGEFIELD"></Item>
+		<Item id="32" name="Title" type="TEXTFIELD"></Item>
+		<Item id="33" name="Version_Label" type="TEXTFIELD"></Item>
+		<Item id="34" name="Version_Number" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

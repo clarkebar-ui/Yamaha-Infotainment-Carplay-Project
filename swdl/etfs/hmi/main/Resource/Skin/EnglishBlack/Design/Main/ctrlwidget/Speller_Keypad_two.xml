@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mLetK" type="BUTTON"></Item>
+		<Item id="2" name="mLetL" type="BUTTON"></Item>
+		<Item id="3" name="ABC" type="BUTTON"></Item>
+		<Item id="4" name="mLetO" type="BUTTON"></Item>
+		<Item id="5" name="mLetR" type="BUTTON"></Item>
+		<Item id="6" name="mLetJ" type="BUTTON"></Item>
+		<Item id="7" name="mLetQ" type="BUTTON"></Item>
+		<Item id="8" name="mLetN" type="BUTTON"></Item>
+		<Item id="9" name="mLetP" type="BUTTON"></Item>
+		<Item id="10" name="mLetM" type="BUTTON"></Item>
+		<Item id="11" name="icon_keyboard_full" type="BUTTON"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="14" name="mSignNumbers" type="BUTTON"></Item>
+		<Item id="15" name="mSignSymbol" type="BUTTON"></Item>
+		<Item id="16" name="ANO" type="BUTTON"></Item>
+		<Item id="17" name="JKL" type="BUTTON"></Item>
+		<Item id="18" name="STU" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

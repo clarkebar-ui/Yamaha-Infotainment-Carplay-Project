@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="3" name="Updating_now" type="TEXTFIELD" visible="true"></Item>
+		<Item id="4" name="Please_Do_not" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="Switch_off" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="waiting_frame" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="percentage" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

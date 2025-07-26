@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="15" name="Home_Center" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="16" name="Home_footer" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="17" name="TOP" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="18" name="Audio_FM" type="TEXTFIELD" visible="true"></Item>
+		<Item id="19" name="FREQ" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="Home_header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="21" name="contents_name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="Channe_lname" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="DispON" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="icon_alert" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

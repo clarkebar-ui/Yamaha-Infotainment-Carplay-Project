@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mSignDollar" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="mSignHash" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="mFuncHypToComma" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="mSignDoubleQuote" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="mSignApostrophe" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="mSignAnd" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="mSignRightSqBrack" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="mSignExclamation" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="mSignLeftSqBrack" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="mSignPercent" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="mFuncKeyboard" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="mFuncNumber" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="mFuncSpclChars" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="mFuncLatANO" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="mFuncAmpToQuote" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="mFuncPlusToBraces" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="mFuncDelete" type="BUTTON" visible="true"></Item>
+	</Group>
+</CTRLWIDGET>

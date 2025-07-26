@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mLetQ" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="mLetW" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="mLetE" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="mLetR" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="mLetT" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="mLetY" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="mLetU" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="mLetI" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="mLetO" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="mLetP" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="mLetA" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="mLetS" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="mLetD" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="mLetF" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="mLetG" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="mLetH" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="mLetJ" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="mLetK" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="mLetL" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="mSignDot" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="mLetZ" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="mLetX" type="BUTTON" visible="true"></Item>
+		<Item id="24" name="mLetC" type="BUTTON" visible="true"></Item>
+		<Item id="25" name="mLetV" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="mLetB" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="mLetN" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="mLetM" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="mFuncEnter" type="BUTTON" visible="true"></Item>
+		<Item id="35" name="mFuncCapsLock" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="mSignSpace" type="BUTTON" visible="true"></Item>
+		<Item id="37" name="mFuncNumber" type="BUTTON" visible="true"></Item>
+		<Item id="38" name="mFuncSpclChars" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="mFuncKeyboard" type="BUTTON" visible="true"></Item>
+		<Item id="40" name="mFuncDelete" type="BUTTON" visible="true"></Item>
+	</Group>
+</CTRLWIDGET>

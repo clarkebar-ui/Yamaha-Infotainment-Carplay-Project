@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="TEXT" type="BUTTON"></Item>
+		<Item id="2" name="List" type="BUTTON"></Item>
+		<Item id="3" name="Check_box_one" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Check_box_two" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

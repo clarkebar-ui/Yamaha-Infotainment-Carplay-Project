@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="txtbase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Scrollbar" type="SCROLLBAR" visible="true"></Item>
+		<Item id="5" name="Delete" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="icon_msg" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="8" name="Vehicle_message_title" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="14" name="Last_maintenance" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="Next_maintenance" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="Copy" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="29" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="30" name="Last_m_date" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="31" name="Next_m_date" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="33" name="IMAGEFIELD_33" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="13" name="Home_Center" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="14" name="Home_footer" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="15" name="TOP" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="16" name="Home_header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="24" name="Audio_AUX" type="TEXTFIELD" visible="true"></Item>
+		<Item id="25" name="AUX_output" type="TEXTFIELD" visible="true"></Item>
+		<Item id="30" name="DispON" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

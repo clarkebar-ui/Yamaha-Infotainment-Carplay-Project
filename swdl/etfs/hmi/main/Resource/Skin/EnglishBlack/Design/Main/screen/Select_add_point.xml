@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="3" name="addp_base_top" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="5" name="txtbase" type="IMAGEFIELD"></Item>
+		<Item id="10" name="addp_line_one" type="IMAGEFIELD"></Item>
+		<Item id="11" name="addp_line_two" type="IMAGEFIELD"></Item>
+		<Item id="12" name="addp_line_three" type="IMAGEFIELD"></Item>
+		<Item id="13" name="addp_line_four" type="IMAGEFIELD"></Item>
+		<Item id="17" name="addp_route" type="IMAGEFIELD"></Item>
+		<Item id="18" name="addp_base_one" type="IMAGEFIELD"></Item>
+		<Item id="19" name="addp_base_two" type="IMAGEFIELD"></Item>
+		<Item id="20" name="addp_base_three" type="IMAGEFIELD"></Item>
+		<Item id="21" name="Icon_mr_one" type="IMAGEFIELD"></Item>
+		<Item id="22" name="Icon_mr_two" type="IMAGEFIELD"></Item>
+		<Item id="23" name="Icon_mr_three" type="IMAGEFIELD"></Item>
+		<Item id="24" name="Icon_mr_four" type="IMAGEFIELD"></Item>
+		<Item id="25" name="Icon_del_one" type="BUTTON"></Item>
+		<Item id="26" name="Icon_del_two" type="BUTTON"></Item>
+		<Item id="27" name="Icon_del_three" type="BUTTON"></Item>
+		<Item id="28" name="Icon_mapdest_one" type="IMAGEFIELD"></Item>
+		<Item id="29" name="Icon_mapdest_two" type="IMAGEFIELD"></Item>
+		<Item id="30" name="Icon_mapdest_three" type="IMAGEFIELD"></Item>
+		<Item id="32" name="Icon_mapstart" type="IMAGEFIELD"></Item>
+		<Item id="33" name="Name_one" type="TEXTFIELD"></Item>
+		<Item id="35" name="Address_one" type="TEXTFIELD"></Item>
+		<Item id="36" name="Address_two" type="TEXTFIELD"></Item>
+		<Item id="37" name="Name_two" type="TEXTFIELD"></Item>
+		<Item id="38" name="Address_three" type="TEXTFIELD"></Item>
+		<Item id="39" name="Name_three" type="TEXTFIELD"></Item>
+		<Item id="40" name="TEXT_one" type="TEXTFIELD"></Item>
+		<Item id="43" name="TEXT_two" type="TEXTFIELD"></Item>
+		<Item id="44" name="TEXT_three" type="TEXTFIELD"></Item>
+		<Item id="45" name="Scrollbar" type="SCROLLBAR"></Item>
+		<Item id="46" name="Name" type="TEXTFIELD"></Item>
+		<Item id="47" name="Address" type="TEXTFIELD"></Item>
+		<Item id="48" name="Select_add_point" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

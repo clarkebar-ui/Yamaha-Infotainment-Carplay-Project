@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="29" name="KEYBOARD" type="KEYBOARD" visible="true"></Item>
+		<Item id="30" name="Phone_book" type="BUTTON" visible="true"></Item>
+		<Item id="32" name="txtbase_number" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="33" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="34" name="Clear" type="BUTTON" visible="true"></Item>
+		<Item id="35" name="SET" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="Add_Shortcut" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

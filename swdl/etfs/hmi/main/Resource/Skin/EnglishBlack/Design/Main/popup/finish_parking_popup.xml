@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Ok_button" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="Text" type="TEXTFIELD" visible="true"></Item>
+		<Item id="3" name="finish_parking" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="rcd_txtbase" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

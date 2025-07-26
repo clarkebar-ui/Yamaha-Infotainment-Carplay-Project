@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Title" type="TEXTFIELD"></Item>
+		<Item TOUCH_PRESSED="true" id="15" name="Audio" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="16" name="Communication" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="17" name="Sw_Status" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="18" name="Intercom" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="19" name="Navigation" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="20" name="Functional" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="21" name="Display_Setting" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="22" name="Slide_Show" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="23" name="Volume" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="24" name="Heater_Setting" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="7" name="Plus_sp_r" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="8" name="Minus_sp_r" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="Icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="level" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="Level_IMG" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="volume" type="TEXTFIELD" visible="true"></Item>
+		<Item id="26" name="Icon_bright" type="IMAGEFIELD" visible="false"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="3" name="POPUP" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Warning_bar" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="5" name="WARNING" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Text_line_one" type="TEXTFIELD" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" TOUCH_RELEASED="false" id="7" name="OK" type="BUTTON" visible="true"></Item>
+		<Item id="12" name="Warning_Icon" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

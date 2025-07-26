@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Text_one" type="TEXTFIELD"></Item>
+		<Item id="2" name="F" type="TEXTFIELD"></Item>
+		<Item id="3" name="Unit_F" type="TEXTFIELD"></Item>
+		<Item id="4" name="kpa" type="TEXTFIELD"></Item>
+		<Item id="5" name="R" type="TEXTFIELD"></Item>
+		<Item id="6" name="Unit_R" type="TEXTFIELD"></Item>
+		<Item id="7" name="Txt_second_three_screen" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

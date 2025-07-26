@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Popup" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="OK" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="Your_ESN_number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="4" name="ESN" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="Speciality_service" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Fuel" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Weather" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="Forcast" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Call" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Traffic" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Unsubscribed_2" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="Unsubscribed_1" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="Unsubscribed_3" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="Number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="Unsubscribed" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</POPUP>

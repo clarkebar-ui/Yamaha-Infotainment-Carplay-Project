@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="10" name="Engineering_mode_menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="14" name="4_Speaker_Widget" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="15" name="4_Speaker_List" type="LIST" visible="true"></Item>
+		<Item id="17" name="2_Speaker_Widget" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="18" name="2_Speaker_List" type="LIST" visible="true"></Item>
+		<Item id="19" name="EQ_data_State" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="On" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="4_Speaker" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="22" name="2_Speaker" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_PRESSED="true" id="5" name="Plus_sp_r" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="6" name="Minus_sp_r" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="Icon" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="9" name="Sensitivity" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Volume_Text" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="volume" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

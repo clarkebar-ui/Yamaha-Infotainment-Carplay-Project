@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<body>
+   <Validation>
+   <Options ValidateResults="true">
+      <QNX  SharedOutputPath="/mnt/net" LocalOutputPath="/fs/etfs/Replay/Output" />
+      <Windows SharedOutputPath="c:/netTarget" />
+   </Options>
+   
+   <Default>
+         <Tolerances>
+            <!-- Warn on average distance between vehicle in baseline -->
+            <!-- and vehicle in replay=3.0 Meters,                    -->
+            <!-- Error on Average distance = 6                        -->
+            <NDR_Distance  MeanLimit="6.0"/>
+            
+	    <!-- GPS Values should (in theory) be exactly equal between  -->
+	    <!-- baseline and replay                                              -->
+            <GPS_Distance  MeanLimit="5.0"/>
+
+            <!-- Max Average heading difference = 0.1 degrees;   -->
+            <NDR_Heading_Difference  MeanLimit="0.1"/>
+            
+            <!-- Max Difference between NDR speeds (Baseline/Playback) -->
+            <NDR_Speed_Difference MeanLimit="0.5"/>
+            
+	    <!-- NDR_GPS_Distance should be very small as long as good GPS -->
+            <Baseline_NDR_GPS_Distance  MeanLimit="10.0"/>
+            <Replay_NDR_GPS_Distance MeanLimit="10.0"/>
+	    
+            <MAPMATCH_Distance MeanLimit="1.0"/>
+            <MAPMATCH_Heading_Difference MeanLimit="0.1"/>
+   
+            <CPU_Jitter MeanLimit="2.0"/>
+            <IOC_Jitter MeanLimit="2.0"/>
+            <CPU_Jitter_Change MeanLimit="2.0"/>
+	    
+            <!--  Display Mean Longitude and Latitude for Baseline Only -->
+            <NDR_Latitude HideReplay="true"/>
+            <NDR_Longitude HideReplay="true"/>
+            
+            <!-- Warn on max speed = 80MPH = 128KMH -->
+            <!-- Error on max speed = 100MPH = 161KMH -->
+            <NDR_Speed MaxWarning="128.0" MaxLimit="161.0" Hidden="true"/>
+            
+            <!-- Warn on > 2 MS Average Jitter in Replay -->
+            <Jitter MeanLimit="2.0"/>
+         </Tolerances>
+      </Default>
+   </Validation>
+</body>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_PRESSED="false" TOUCH_RELEASED="false" id="6" name="Map" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="8" name="Go" type="BUTTON" visible="true"></Item>
+		<Item id="9" name="Save" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Info" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="12" name="Target" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="13" name="view_d" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="view_l" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="view_r" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="view_u" type="BUTTON" visible="true"></Item>
+		<Item id="19" name="nav_compass" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="20" name="zoom_in" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="zoom_out" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="popup_map" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="Details" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="headline" type="TEXTFIELD" visible="true"></Item>
+		<Item id="25" name="scrollbar" type="SCROLLBAR" visible="true"></Item>
+	</Group>
+</SCREEN>

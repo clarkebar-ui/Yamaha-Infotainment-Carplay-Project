@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="11" name="LIST_Med_Menubar" type="LIST"></Item>
+		<Item id="12" name="Text" type="BUTTON"></Item>
+	</Group>
+</FUNCWIDGET>

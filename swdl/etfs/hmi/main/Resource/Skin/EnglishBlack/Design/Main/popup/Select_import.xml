@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="btn_close" type="BUTTON" visible="true"></Item>
+		<Item id="2" name="txt_select_function" type="TEXTFIELD" visible="true"></Item>
+		<Item id="4" name="btn_import" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="Import_list_item" type="LIST" visible="true"></Item>
+	</Group>
+</POPUP>

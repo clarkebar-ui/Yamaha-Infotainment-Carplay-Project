@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="Current_percent" type="TEXTFIELD"></Item>
+		<Item id="2" name="Current_Fahrenheit" type="TEXTFIELD"></Item>
+		<Item id="3" name="sxmw_icon_one" type="IMAGEFIELD"></Item>
+		<Item id="4" name="Current" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="4" name="Base" type="IMAGEFIELD"></Item>
+		<Item id="5" name="TextDisc" type="TEXTFIELD"></Item>
+		<Item id="6" name="Processing" type="IMAGEFIELD"></Item>
+		<Item id="7" name="BT_Address" type="TEXTFIELD"></Item>
+		<Item id="8" name="BT_Address_Val" type="TEXTFIELD"></Item>
+		<Item id="9" name="BT_PIN" type="TEXTFIELD"></Item>
+		<Item id="10" name="BT_Pin_Val" type="TEXTFIELD"></Item>
+		<Item id="11" name="Time_Text" type="TEXTFIELD"></Item>
+		<Item id="12" name="Time_Val" type="TEXTFIELD"></Item>
+		<Item id="13" name="Cancel" type="BUTTON"></Item>
+	</Group>
+</POPUP>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="2" name="Recent" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="3" name="Number" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="4" name="Emergency" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="5" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="6" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="7" name="PhoneBook" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="8" name="Redial" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_PRESSED="true" id="9" name="speaker" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Phone_number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Dialling_message" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="SpeakerLeft" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="15" name="SpeakerImg" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="16" name="icon_phone" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

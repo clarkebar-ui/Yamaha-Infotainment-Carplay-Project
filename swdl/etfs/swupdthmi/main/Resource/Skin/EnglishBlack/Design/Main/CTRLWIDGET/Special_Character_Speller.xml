@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="3" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="5" name="mSignPercent" type="BUTTON"></Item>
+		<Item id="6" name="mSignAnd" type="BUTTON"></Item>
+		<Item id="10" name="mSignSubtraction" type="BUTTON"></Item>
+		<Item id="13" name="mFuncBackspace" type="BUTTON"></Item>
+		<Item id="20" name="mSignMultiplication" type="BUTTON"></Item>
+		<Item id="25" name="mSignDivision" type="BUTTON"></Item>
+		<Item id="29" name="mSignSpace" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

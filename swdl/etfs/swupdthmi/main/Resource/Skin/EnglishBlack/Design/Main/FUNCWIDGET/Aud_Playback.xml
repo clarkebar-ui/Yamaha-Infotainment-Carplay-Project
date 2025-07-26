@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="25" name="PrevRewind" type="BUTTON"></Item>
+		<Item id="26" name="PlayPause" type="BUTTON"></Item>
+		<Item id="27" name="NextForward" type="BUTTON"></Item>
+		<Item id="28" name="Repeat" type="BUTTON"></Item>
+		<Item id="29" name="Random" type="BUTTON"></Item>
+		<Item id="30" name="Led_1" type="IMAGEFIELD"></Item>
+		<Item id="31" name="Led_2" type="IMAGEFIELD"></Item>
+		<Item id="32" name="Img_PrevRewind" type="IMAGEFIELD"></Item>
+		<Item id="33" name="Img_Random" type="IMAGEFIELD"></Item>
+		<Item id="34" name="Img_PlayPause" type="IMAGEFIELD"></Item>
+		<Item id="35" name="Img_NextForward" type="IMAGEFIELD"></Item>
+		<Item id="36" name="Img_Repeat" type="IMAGEFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

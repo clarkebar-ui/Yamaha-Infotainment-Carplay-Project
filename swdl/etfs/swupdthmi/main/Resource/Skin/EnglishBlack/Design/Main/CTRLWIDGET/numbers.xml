@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="11" name="mNum1" type="BUTTON"></Item>
+		<Item id="12" name="mNum2" type="BUTTON"></Item>
+		<Item id="13" name="mNum3" type="BUTTON"></Item>
+		<Item id="14" name="mNum4" type="BUTTON"></Item>
+		<Item id="15" name="mNum5" type="BUTTON"></Item>
+		<Item id="16" name="mNum6" type="BUTTON"></Item>
+		<Item id="17" name="mNum7" type="BUTTON"></Item>
+		<Item id="18" name="mNum8" type="BUTTON"></Item>
+		<Item id="19" name="mNum9" type="BUTTON"></Item>
+		<Item id="20" name="mNum0" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

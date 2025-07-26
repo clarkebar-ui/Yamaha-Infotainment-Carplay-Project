@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="2" name="txtbase_speller" type="IMAGEFIELD"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_PRESSED="true" id="3" name="Clear" type="BUTTON"></Item>
+		<Item KEY_CLICKED="true" id="4" name="numbers" type="KEYBOARD"></Item>
+		<Item KEY_CLICKED="true" id="5" name="Alphabet_speller_small" type="KEYBOARD"></Item>
+		<Item TOUCH_PRESSED="true" id="6" name="icon_shift_push" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="7" name="preview" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="8" name="Next" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="9" name="special_character" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="10" name="icon_keyboard" type="BUTTON"></Item>
+		<Item id="11" name="TEXT" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

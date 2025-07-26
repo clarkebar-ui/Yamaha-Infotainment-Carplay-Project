@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="TXTbase_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="5" name="TXTbase_three" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="6" name="TXTbase_four" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="7" name="Software_version" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Production_ID" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="Requesr_code" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="Open_Source" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="Update" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="Production_ID_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="19" name="Requesr_code_Number" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="UP" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="Scroll_Indicator" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="Down" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="Map_id" type="TEXTFIELD" visible="true"></Item>
+		<Item id="27" name="TXTbase_Map_Id" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="29" name="DeviceId" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="MapUpgrade" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

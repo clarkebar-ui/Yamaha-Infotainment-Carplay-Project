@@ -1,0 +1,4 @@
+Filename::/usr/var/volatile/qdb/eta
+Collation::general@libmedia_custom_charUTF8.so
+Compression::lzo
+BackupDir::/usr/var/qdb_ram/eta/eta1,/usr/var/qdb_ram/eta/eta2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="7" name="TOP_Zone" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="8" name="Moving_time" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Moving" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Mi_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="Mi_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="M_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="H_Unit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="M_Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="H_Value" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

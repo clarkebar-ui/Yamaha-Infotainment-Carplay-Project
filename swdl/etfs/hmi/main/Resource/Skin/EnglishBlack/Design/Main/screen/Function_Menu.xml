@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="19" name="Seat_Heater" type="BUTTON" visible="true"></Item>
+		<Item id="20" name="WindShield_Down" type="BUTTON" visible="true"></Item>
+		<Item id="21" name="Menu" type="BUTTON" visible="true"></Item>
+		<Item id="22" name="WindShield_Up" type="BUTTON" visible="true"></Item>
+		<Item id="23" name="Grip_Heater" type="BUTTON" visible="true"></Item>
+		<Item id="33" name="Seat_heater_i" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="34" name="Grip_heater_i" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="36" name="heat_popup_base_2" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="37" name="heat_popup_base_1" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

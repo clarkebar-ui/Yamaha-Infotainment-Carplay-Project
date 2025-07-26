@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="top_zone2" type="IMAGEFIELD"></Item>
+		<Item id="2" name="top_zone1" type="IMAGEFIELD"></Item>
+		<Item id="3" name="top_zone3" type="IMAGEFIELD"></Item>
+		<Item id="4" name="icon_top_ice" type="IMAGEFIELD"></Item>
+		<Item id="5" name="icon_top_info_compass_x" type="IMAGEFIELD"></Item>
+		<Item id="6" name="icon_top_limit" type="IMAGEFIELD"></Item>
+		<Item id="7" name="MPH" type="TEXTFIELD"></Item>
+		<Item id="8" name="ZERO" type="TEXTFIELD"></Item>
+		<Item id="9" name="Caution_Ice" type="TEXTFIELD"></Item>
+		<Item id="10" name="Speed_limit" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

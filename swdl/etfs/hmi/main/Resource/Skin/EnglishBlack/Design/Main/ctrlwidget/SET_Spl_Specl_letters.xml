@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="1" name="mSignExclamation" type="BUTTON"></Item>
+		<Item id="2" name="mSignQuotation" type="BUTTON"></Item>
+		<Item id="3" name="mSignDollar" type="BUTTON"></Item>
+		<Item id="4" name="mSignApostrophe" type="BUTTON"></Item>
+		<Item id="5" name="mSignLeftParan" type="BUTTON"></Item>
+		<Item id="6" name="mSignRightParan" type="BUTTON"></Item>
+		<Item id="7" name="mSignTilde" type="BUTTON"></Item>
+		<Item id="8" name="mSignVerbar" type="BUTTON"></Item>
+		<Item id="9" name="mSignGraveAccent" type="BUTTON"></Item>
+		<Item id="10" name="mSignLeftCurlyBrack" type="BUTTON"></Item>
+		<Item id="11" name="mSignRightCurlyBrack" type="BUTTON"></Item>
+		<Item id="12" name="mSignSemiColon" type="BUTTON"></Item>
+		<Item id="13" name="mSignColon" type="BUTTON"></Item>
+		<Item id="14" name="mSignPlus" type="BUTTON"></Item>
+		<Item id="15" name="mSignAsterisk" type="BUTTON"></Item>
+		<Item id="16" name="mSignLessthan" type="BUTTON"></Item>
+		<Item id="17" name="mSignGreaterthan" type="BUTTON"></Item>
+		<Item id="18" name="mSignQuesnMark" type="BUTTON"></Item>
+		<Item id="19" name="mSignComma" type="BUTTON"></Item>
+		<Item id="20" name="msignUnderScore" type="BUTTON"></Item>
+		<Item id="21" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="22" name="mSignHash" type="BUTTON"></Item>
+		<Item id="23" name="mSignPercent" type="BUTTON"></Item>
+		<Item id="24" name="mSignAmpersand" type="BUTTON"></Item>
+		<Item id="25" name="mSignMinus" type="BUTTON"></Item>
+		<Item id="26" name="mSignAt" type="BUTTON"></Item>
+		<Item id="27" name="mSignDot" type="BUTTON"></Item>
+		<Item id="28" name="mSignSlash" type="BUTTON"></Item>
+		<Item id="29" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="30" name="mFuncNumber" type="BUTTON"></Item>
+		<Item id="31" name="mFuncABC" type="BUTTON"></Item>
+		<Item id="32" name="mFuncCapsLock" type="BUTTON"></Item>
+		<Item id="33" name="mFuncKeyboard" type="BUTTON"></Item>
+		<Item id="34" name="mFuncDelete" type="BUTTON"></Item>
+	</Group>
+</CTRLWIDGET>

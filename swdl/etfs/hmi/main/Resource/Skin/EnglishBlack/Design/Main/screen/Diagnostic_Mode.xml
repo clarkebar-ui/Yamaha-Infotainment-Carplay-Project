@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="6" name="Suspend_Date" type="TEXTFIELD" visible="true"></Item>
+		<Item id="7" name="Reason_Code" type="TEXTFIELD" visible="true"></Item>
+		<Item id="8" name="Sub_Status" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="CGS" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="HMI" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="RF" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="BB" type="TEXTFIELD" visible="true"></Item>
+		<Item id="13" name="HDEC" type="TEXTFIELD" visible="true"></Item>
+		<Item id="14" name="SXI" type="TEXTFIELD" visible="true"></Item>
+		<Item id="15" name="Mod_SW" type="TEXTFIELD" visible="true"></Item>
+		<Item id="16" name="Mod_HW" type="TEXTFIELD" visible="true"></Item>
+		<Item id="17" name="Mod_Type" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="Capability" type="TEXTFIELD" visible="true"></Item>
+		<Item id="20" name="Signal" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="Tuner_Status" type="TEXTFIELD" visible="true"></Item>
+		<Item id="22" name="Lock_EnsA" type="TEXTFIELD" visible="true"></Item>
+		<Item id="23" name="Lock_EnsB" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="BER" type="TEXTFIELD" visible="true"></Item>
+		<Item id="25" name="C_N_Two" type="TEXTFIELD" visible="true"></Item>
+		<Item id="27" name="Rs" type="TEXTFIELD" visible="true"></Item>
+		<Item id="28" name="Tuner_Freq" type="TEXTFIELD" visible="true"></Item>
+		<Item id="29" name="RSSI" type="TEXTFIELD" visible="true"></Item>
+		<Item id="30" name="Overlay_Status" type="TEXTFIELD" visible="true"></Item>
+		<Item id="31" name="OBERA" type="TEXTFIELD" visible="true"></Item>
+		<Item id="32" name="OBERB" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="C_N" type="TEXTFIELD" visible="true"></Item>
+		<Item id="34" name="OTPIP0" type="TEXTFIELD" visible="true"></Item>
+		<Item id="35" name="diagnostic_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="36" name="Clear_NVM" type="BUTTON" visible="true"></Item>
+		<Item id="37" name="Clear_CGS" type="BUTTON" visible="true"></Item>
+		<Item id="38" name="Clear_Fuel" type="BUTTON" visible="true"></Item>
+		<Item id="39" name="Factory_initialization" type="BUTTON" visible="true"></Item>
+	</Group>
+</SCREEN>

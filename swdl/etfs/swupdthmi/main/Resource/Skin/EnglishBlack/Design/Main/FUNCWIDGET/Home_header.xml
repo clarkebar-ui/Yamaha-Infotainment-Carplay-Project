@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="21" name="topbase_header" type="IMAGEFIELD"></Item>
+		<Item id="22" name="icon_top_info" type="IMAGEFIELD"></Item>
+		<Item id="23" name="icon_top_seat_r" type="IMAGEFIELD"></Item>
+		<Item id="24" name="icon_top_grip" type="IMAGEFIELD"></Item>
+		<Item id="25" name="icon_top_seat_p" type="IMAGEFIELD"></Item>
+		<Item id="26" name="icon_top_time" type="IMAGEFIELD"></Item>
+		<Item id="34" name="Current_St" type="TEXTFIELD"></Item>
+		<Item id="37" name="Time" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

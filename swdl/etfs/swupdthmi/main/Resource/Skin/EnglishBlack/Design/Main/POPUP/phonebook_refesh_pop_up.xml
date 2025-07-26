@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Base" type="IMAGEFIELD"></Item>
+		<Item id="10" name="Yes" type="BUTTON"></Item>
+		<Item id="11" name="No" type="BUTTON"></Item>
+		<Item id="12" name="Text" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

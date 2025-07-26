@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="5" name="TOP_Zone_r" type="IMAGEFIELD"></Item>
+		<Item id="6" name="TOP_zone_l" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Moving_time" type="TEXTFIELD"></Item>
+		<Item id="8" name="Arrival_time" type="TEXTFIELD"></Item>
+		<Item id="9" name="Moving" type="TEXTFIELD"></Item>
+		<Item id="10" name="Arrival" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

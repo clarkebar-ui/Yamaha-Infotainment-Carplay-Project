@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="13" name="Base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="PAIR" type="BUTTON" visible="true"></Item>
+		<Item id="15" name="DONT_PAIR" type="BUTTON" visible="true"></Item>
+		<Item id="16" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="18" name="Pass_key" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

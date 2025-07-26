@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="2" name="List" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="icon_bad_push" type="BUTTON" visible="true"></Item>
+		<Item id="4" name="icon_good_push" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="ALBUM" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="Station_name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Track_Name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="MediaTrack" type="PROGRESSBAR" visible="true"></Item>
+		<Item id="12" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="13" name="Aud_Menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="16" name="PlayPause" type="BUTTON" visible="true"></Item>
+		<Item id="17" name="Setting_Bg" type="BUTTON" visible="true"></Item>
+		<Item id="25" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="Media_artwork_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="29" name="Artwork" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="32" name="Album_name" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="Play_time" type="TEXTFIELD" visible="true"></Item>
+		<Item id="34" name="NextForward" type="BUTTON" visible="true"></Item>
+		<Item id="36" name="Pandora_Button" type="BUTTON" visible="true"></Item>
+		<Item id="40" name="Slash" type="TEXTFIELD" visible="true"></Item>
+		<Item id="41" name="Actual_Time" type="TEXTFIELD" visible="true"></Item>
+		<Item id="46" name="Icon_Share_image" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="47" name="Icon_list_Shuffle" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

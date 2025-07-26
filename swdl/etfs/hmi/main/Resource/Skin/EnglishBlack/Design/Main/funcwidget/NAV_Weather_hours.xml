@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="percent" type="TEXTFIELD" visible="true"></Item>
+		<Item id="2" name="Fahrenheit" type="TEXTFIELD" visible="true"></Item>
+		<Item id="3" name="sxmw_graphic" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="4" name="Current" type="TEXTFIELD" visible="true"></Item>
+		<Item id="5" name="Fahrenheit_Label" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

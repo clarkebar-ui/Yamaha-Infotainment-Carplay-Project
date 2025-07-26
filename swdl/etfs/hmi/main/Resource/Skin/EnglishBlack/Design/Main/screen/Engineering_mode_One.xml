@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="13" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="14" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="15" name="Engineering_mode_one" type="REFFUNCWIDGET"></Item>
+		<Item id="16" name="LIST" type="LIST"></Item>
+		<Item id="18" name="Step_text" type="TEXTFIELD"></Item>
+		<Item id="19" name="Bass_text" type="TEXTFIELD"></Item>
+		<Item id="20" name="Trebble_text" type="TEXTFIELD"></Item>
+		<Item id="21" name="Scrollbar_Table" type="SCROLLBAR"></Item>
+		<Item id="22" name="Engineering_mode_Button" type="REFFUNCWIDGET"></Item>
+		<Item id="23" name="Engineering_mode_menu" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

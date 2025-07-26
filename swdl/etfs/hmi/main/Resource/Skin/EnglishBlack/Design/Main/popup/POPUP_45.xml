@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Base" type="IMAGEFIELD"></Item>
+		<Item id="3" name="waiting_frame" type="IMAGEFIELD"></Item>
+	</Group>
+</POPUP>

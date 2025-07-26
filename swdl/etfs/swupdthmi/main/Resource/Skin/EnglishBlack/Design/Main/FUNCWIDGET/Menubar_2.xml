@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_PRESSED="true" id="1" name="Back" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" id="2" name="Forword" type="BUTTON"></Item>
+		<Item id="3" name="Text" type="BUTTON"></Item>
+		<Item SELECT_CHANGED="true" id="4" name="LIST" type="LIST"></Item>
+	</Group>
+</FUNCWIDGET>

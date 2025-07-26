@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="15" name="Home_Center" type="REFFUNCWIDGET"></Item>
+		<Item id="16" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="17" name="TOP" type="REFFUNCWIDGET"></Item>
+		<Item id="18" name="Audio_FM" type="TEXTFIELD"></Item>
+		<Item id="19" name="FREQ" type="TEXTFIELD"></Item>
+		<Item id="20" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="21" name="contents_name" type="TEXTFIELD"></Item>
+		<Item id="22" name="Channe_lname" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

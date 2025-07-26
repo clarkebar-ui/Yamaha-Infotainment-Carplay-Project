@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="15" name="TXTbase_one" type="IMAGEFIELD"></Item>
+		<Item id="16" name="Minus_Bass" type="BUTTON"></Item>
+		<Item id="17" name="Plus_Bass" type="BUTTON"></Item>
+		<Item id="18" name="Minus_Trebble" type="BUTTON"></Item>
+		<Item id="19" name="Plus_Trebble" type="BUTTON"></Item>
+		<Item id="20" name="Step" type="TEXTFIELD"></Item>
+		<Item id="21" name="Bass_level" type="TEXTFIELD"></Item>
+		<Item id="22" name="Trebble_Level" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

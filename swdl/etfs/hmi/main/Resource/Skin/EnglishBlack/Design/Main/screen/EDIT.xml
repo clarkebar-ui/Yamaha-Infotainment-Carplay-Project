@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="preview" type="BUTTON" visible="true"></Item>
+		<Item id="10" name="Next" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="icon_dst" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="14" name="Scrollber" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="23" name="cover_base_edit" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="24" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="25" name="Set" type="BUTTON" visible="true"></Item>
+		<Item id="26" name="Edit_screen" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="27" name="TABLE" type="TABLE" visible="true"></Item>
+		<Item id="30" name="Delete" type="BUTTON"></Item>
+		<Item id="31" name="Move" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

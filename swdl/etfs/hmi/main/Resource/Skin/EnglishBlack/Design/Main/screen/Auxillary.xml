@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="24" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="25" name="Menu_2" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="26" name="Hi" type="BUTTON" visible="true"></Item>
+		<Item id="27" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item id="28" name="Mid" type="BUTTON" visible="true"></Item>
+		<Item id="29" name="Off" type="BUTTON" visible="true"></Item>
+		<Item id="30" name="line_aux" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="32" name="Volume" type="TEXTFIELD" visible="true"></Item>
+		<Item id="33" name="AUX_Output" type="TEXTFIELD" visible="true"></Item>
+		<Item id="38" name="Led_Hi" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="39" name="Led_Mid" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="40" name="Led_Off" type="IMAGEFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

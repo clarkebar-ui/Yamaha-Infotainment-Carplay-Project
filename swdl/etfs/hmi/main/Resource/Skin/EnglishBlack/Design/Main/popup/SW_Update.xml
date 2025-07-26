@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="User_Confirmation" type="TEXTFIELD"></Item>
+		<Item TOUCH_RELEASED="true" id="2" name="YES" type="BUTTON"></Item>
+		<Item TOUCH_RELEASED="true" id="3" name="NO" type="BUTTON"></Item>
+		<Item id="4" name="UpdateProgress" type="PROGRESSBAR"></Item>
+		<Item id="5" name="UpdateType" type="TEXTFIELD"></Item>
+		<Item id="6" name="UserInfo" type="TEXTFIELD"></Item>
+		<Item id="7" name="Version" type="TEXTFIELD"></Item>
+	</Group>
+</POPUP>

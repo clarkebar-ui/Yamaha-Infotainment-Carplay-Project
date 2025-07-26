@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="21" name="keypad" type="KEYBOARD"></Item>
+		<Item id="22" name="Enter" type="BUTTON"></Item>
+		<Item id="25" name="line_number" type="IMAGEFIELD"></Item>
+		<Item id="27" name="txtbase_number" type="IMAGEFIELD"></Item>
+		<Item id="28" name="Clear" type="BUTTON"></Item>
+		<Item id="29" name="TEXT" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

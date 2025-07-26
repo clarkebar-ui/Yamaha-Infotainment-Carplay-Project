@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTRLWIDGET>
+	<Group>
+		<Item id="6" name="Text" type="BUTTON"></Item>
+		<Item id="11" name="icon_keyboard_full" type="BUTTON"></Item>
+		<Item id="12" name="mSignSpace" type="BUTTON"></Item>
+		<Item id="13" name="mFuncEnter" type="BUTTON"></Item>
+		<Item id="14" name="mSignNumbers" type="BUTTON"></Item>
+		<Item id="15" name="mSignSymbol" type="BUTTON"></Item>
+		<Item id="16" name="ANO" type="BUTTON"></Item>
+		<Item id="21" name="TABLE" type="TABLE"></Item>
+		<Item id="22" name="Down" type="BUTTON"></Item>
+		<Item id="23" name="Up" type="BUTTON"></Item>
+		<Item id="25" name="Scroll_Indicator" type="IMAGEFIELD"></Item>
+	</Group>
+</CTRLWIDGET>

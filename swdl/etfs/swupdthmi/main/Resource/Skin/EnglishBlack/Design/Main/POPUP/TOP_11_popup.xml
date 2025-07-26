@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POPUP>
+	<Group>
+		<Item id="1" name="Back" type="BUTTON"></Item>
+		<Item id="3" name="Restaurant" type="BUTTON"></Item>
+		<Item id="4" name="Rest_area" type="BUTTON"></Item>
+		<Item id="5" name="Gas_station" type="BUTTON"></Item>
+		<Item id="6" name="Destination" type="BUTTON"></Item>
+	</Group>
+</POPUP>

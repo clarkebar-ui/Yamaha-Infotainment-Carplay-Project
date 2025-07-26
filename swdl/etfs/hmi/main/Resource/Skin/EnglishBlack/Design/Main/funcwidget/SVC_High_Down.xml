@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="TXTbase_one" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="2" name="Minus_Speed" type="BUTTON" visible="true"></Item>
+		<Item id="3" name="Plus_speed" type="BUTTON" visible="true"></Item>
+		<Item id="5" name="Speed_level" type="TEXTFIELD" visible="true"></Item>
+		<Item id="6" name="TXTbase_Two" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Minus_Gain" type="BUTTON"></Item>
+		<Item id="8" name="Plus_Gain" type="BUTTON"></Item>
+		<Item id="9" name="Gain_level" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

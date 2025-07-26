@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="plus_month" type="BUTTON"></Item>
+		<Item id="2" name="plus_day" type="BUTTON"></Item>
+		<Item id="3" name="plus_year" type="BUTTON"></Item>
+		<Item id="4" name="minus_month" type="BUTTON"></Item>
+		<Item id="5" name="minus_day" type="BUTTON"></Item>
+		<Item id="6" name="minus_year" type="BUTTON"></Item>
+		<Item id="7" name="month_value" type="TEXTFIELD"></Item>
+		<Item id="8" name="forward_slash_one" type="TEXTFIELD"></Item>
+		<Item id="9" name="day_value" type="TEXTFIELD"></Item>
+		<Item id="10" name="forward_slash_two" type="TEXTFIELD"></Item>
+		<Item id="11" name="year_value" type="TEXTFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

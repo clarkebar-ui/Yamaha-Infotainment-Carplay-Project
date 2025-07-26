@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Engineering_mode_menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="Engineering_mode_Button" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="5" name="Scrollbar_Table" type="SCROLLBAR" visible="true"></Item>
+		<Item id="6" name="SVC_High_Down" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="Veh_Speed_km_h" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="Gain_db" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="LIST" type="LIST"></Item>
+	</Group>
+</SCREEN>

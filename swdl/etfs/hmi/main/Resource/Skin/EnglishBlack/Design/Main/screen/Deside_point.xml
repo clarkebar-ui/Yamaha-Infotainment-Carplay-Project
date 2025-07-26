@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="9" name="nav_compass" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="10" name="Info" type="BUTTON" visible="true"></Item>
+		<Item id="11" name="Home" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="12" name="Save" type="BUTTON" visible="true"></Item>
+		<Item id="13" name="Route_select" type="BUTTON" visible="true"></Item>
+		<Item id="14" name="Icon_mapdest" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="15" name="route_mem_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="16" name="Go_text" type="BUTTON" visible="true"></Item>
+		<Item id="18" name="Fastest" type="TEXTFIELD" visible="true"></Item>
+		<Item id="19" name="Deside_mapinfobase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="20" name="Deside_mapinfo_details" type="TEXTFIELD" visible="true"></Item>
+		<Item id="21" name="Deside_mapinfo_heading" type="TEXTFIELD" visible="true"></Item>
+		<Item id="24" name="popup_deside_point" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="25" name="Details" type="TEXTFIELD" visible="true"></Item>
+		<Item id="26" name="headline" type="TEXTFIELD" visible="true"></Item>
+		<Item id="27" name="scrollbar" type="SCROLLBAR" visible="true"></Item>
+	</Group>
+</SCREEN>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item TOUCH_RELEASED="true" id="36" name="List" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="37" name="Setting" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_RELEASED="true" id="38" name="Music_Menu" type="BUTTON" visible="true"></Item>
+		<Item id="48" name="ALBUM" type="TEXTFIELD" visible="true"></Item>
+		<Item id="49" name="Album_title" type="TEXTFIELD" visible="true"></Item>
+		<Item id="50" name="ARTIST" type="TEXTFIELD" visible="true"></Item>
+		<Item id="51" name="TRACK" type="TEXTFIELD" visible="true"></Item>
+		<Item id="52" name="Music_title" type="TEXTFIELD" visible="true"></Item>
+		<Item id="53" name="Artist_name" type="TEXTFIELD" visible="true"></Item>
+		<Item POS_CHANGED="true" POS_CONTINUE_CHANGE_ENDED="true" POS_CONTINUE_CHANGE_STARTED="true" id="58" name="MediaTrack" type="PROGRESSBAR" visible="true"></Item>
+		<Item id="59" name="Header" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="60" name="Aud_Menu" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="61" name="Playback" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="65" name="Media_artwork_base" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="66" name="Artwork" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="70" name="Actual_Time" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</SCREEN>

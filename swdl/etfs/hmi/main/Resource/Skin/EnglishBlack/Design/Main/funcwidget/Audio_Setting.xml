@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="5" name="keybase" type="IMAGEFIELD" visible="true"></Item>
+		<Item id="6" name="Minus_media_volume" type="BUTTON" visible="true"></Item>
+		<Item id="7" name="Plus_media_volume" type="BUTTON" visible="true"></Item>
+		<Item id="8" name="TEXT" type="TEXTFIELD" visible="true"></Item>
+		<Item id="9" name="Value" type="TEXTFIELD" visible="true"></Item>
+		<Item id="10" name="volume" type="TEXTFIELD" visible="true"></Item>
+		<Item id="11" name="TEXT_SVC" type="TEXTFIELD" visible="true"></Item>
+		<Item id="12" name="2lineTextfiled" type="TEXTFIELD" visible="true"></Item>
+	</Group>
+</FUNCWIDGET>

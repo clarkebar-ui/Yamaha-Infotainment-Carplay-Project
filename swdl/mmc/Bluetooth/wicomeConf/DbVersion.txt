@@ -1,0 +1,141 @@
+{
+   "1" : [
+   		  "INSERT INTO dbVersionTable (dbVersion) VALUES (1)"
+   		 ],
+   "2" : [
+   		  "CREATE TABLE IF NOT EXISTS PHONE_5 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (5,'00:00:00:00:00:00','PHONE_5',0)",
+   		  "CREATE TABLE IF NOT EXISTS navigation (navUniqueId INTEGER PRIMARY KEY ,formattedName TEXT NOT NULL ,data NAME TEXT NOT NULL,lat  TEXT,lon  TEXT,navId INTEGER)",
+   		  "CREATE TABLE IF NOT EXISTS SmsTemplates (smsTemplateId INTEGER PRIMARY KEY ,smsBody TEXT NOT NULL ,timeStamp TEXT NOT NULL)",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (1,'I''ll think about it.', '2011-06-13 14:05:30')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (2,'Why?', '2011-06-13 14:05:31')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (3,'Can''t talk right now.', '2011-06-13 14:05:32')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (4,'Can''t wait to see you!', '2011-06-13 14:05:33')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (5,'Thanks!', '2011-06-13 14:05:34')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (6,'I''ll be a bit late.', '2011-06-13 14:05:35')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (7,'I''ll call you later.', '2011-06-13 14:05:36')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (8,'Call me!', '2011-06-13 14:05:37')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (9,'No', '2011-06-13 14:05:38')",
+   		  "INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (10,'Yes', '2011-06-13 14:05:39')"
+   		 ],
+   "3" : [
+   		  "alter table speeddial add homeNumber TEXT NULL",
+   		  "alter table speeddial add otherNumber TEXT NULL",
+   		  "alter table speeddial add workNumber TEXT NULL"
+   		 ],
+   "4" : [ 
+          "alter table AddressBook add favIndex INTEGER NULL"
+         ],
+   "5" : [
+		  "ALTER TABLE BT_DEVICE ADD callStackSyncComplete BOOL",
+		  "ALTER TABLE BT_DEVICE ADD smsSyncComplete BOOL",
+		  "ALTER TABLE BT_DEVICE ADD tasksSyncComplete BOOL",
+		  "ALTER TABLE BT_DEVICE ADD notesSyncComplete BOOL",
+		  "ALTER TABLE BT_DEVICE ADD emailSyncComplete BOOL",
+		  "ALTER TABLE BT_DEVICE ADD calendarSyncComplete BOOL"
+   		 ],
+   "6" : [
+   		  "CREATE TABLE IF NOT EXISTS PHONE_6 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (6,'00:00:00:00:00:00','PHONE_6',0)",
+   		  "CREATE TABLE IF NOT EXISTS PHONE_7 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (7,'00:00:00:00:00:00','PHONE_7',0)",
+   		  "CREATE TABLE IF NOT EXISTS PHONE_8 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (8,'00:00:00:00:00:00','PHONE_8',0)",
+   		  "CREATE TABLE IF NOT EXISTS PHONE_9 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (9,'00:00:00:00:00:00','PHONE_9',0)",
+   		  "CREATE TABLE IF NOT EXISTS PHONE_10 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (10,'00:00:00:00:00:00','PHONE_10',0)",
+   		  "CREATE TABLE IF NOT EXISTS PHONE_11 (contactsId  INTEGER PRIMARY KEY,familyName TEXT NULL ,givenName TEXT NULL ,formattedName TEXT NULL ,poBox TEXT NULL ,addType TEXT NULL ,country TEXT NULL ,postalcode TEXT NULL ,street TEXT NULL ,location TEXT NULL ,region TEXT NULL ,lan TEXT NULL ,lon TEXT NULL ,label TEXT NULL ,email TEXT NULL ,url TEXT NULL ,telephone TEXT NULL ,homeNumber TEXT NULL ,mobileNumber TEXT NULL ,workNumber TEXT NULL ,otherNumber TEXT NULL)",
+   		  "INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES (11,'00:00:00:00:00:00','PHONE_11',0)" 
+   		 ],
+	"7" :[ 
+		  "ALTER TABLE NAVIGATION ADD sortIndex INTEGER NULL"
+         ],
+    "8" :[ 
+          "ALTER TABLE NAVIGATION ADD pinned BOOL"
+         ],
+    "9" :[ 	  	 
+	      "ALTER TABLE AddressBook ADD destCode TEXT NULL",
+	      "INSERT INTO AddressBook(formattedName,favIndex,mobileNumber,contactsId) VALUES ('Emergency',1,'911',1)",
+	      "INSERT INTO AddressBook(favIndex,contactsId) VALUES (2,2)"      
+	  	 ],
+	"10" :[
+	        "ALTER TABLE bt_device ADD autoSyncComplete INTEGER NULL"
+	      ],
+    "11" :[
+			"ALTER TABLE PHONE_1 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_2 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_3 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_4 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_5 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_6 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_7 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_8 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_9 ADD reverseFormattedName TEXT NULL",
+			"ALTER TABLE PHONE_10 ADD reverseFormattedName TEXT NULL"
+	      ],
+    "12" :[
+			"ALTER TABLE PHONE_1 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_2 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_3 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_4 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_5 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_6 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_7 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_8 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_9 ADD moreInfoAvailable INTEGER NULL",
+			"ALTER TABLE PHONE_10 ADD moreInfoAvailable INTEGER NULL",
+			"create table moreinfo_table (Id INTEGER PRIMARY KEY,telephoneType INTEGER NULL ,phoneId INTEGER NULL ,contactsId INTEGER NULL,telephoneNumber TEXT NULL,telephoneSuffix INTEGER NULL)"
+		  ],
+    "13" :[
+     		"ALTER TABLE AddressBook ADD reverseFormattedName TEXT NULL"
+	      ],
+    "14" :[
+			"ALTER TABLE PHONE_11 ADD reverseFormattedName TEXT NULL"
+		],
+    "15" :[
+			"ALTER TABLE PHONE_11 ADD moreInfoAvailable INTEGER NULL"
+		],
+    "16" :[
+			"ALTER TABLE AddressBook ADD btAddr TEXT NULL",
+   			"ALTER TABLE AddressBook ADD timeStamp TEXT NULL"
+		],
+    "17" :[
+			"ALTER TABLE NAVIGATION ADD yomiName TEXT NULL"
+		],
+    "18" :[
+			"INSERT INTO SmsTemplates (smsTemplateId, smsBody, timeStamp) VALUES (100,'NULL', '2011-06-13 14:05:39')"
+		],
+    "19" :[
+            "ALTER TABLE PHONE_1 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_2 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_3 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_4 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_5 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_6 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_7 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_8 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_9 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_10 ADD phoneticName TEXT NULL",
+            "ALTER TABLE PHONE_11 ADD phoneticName TEXT NULL"
+        ],
+    "20" :[
+            "ALTER TABLE NAVIGATION ADD chime BOOL"
+        ],
+	"21" :[
+            "ALTER TABLE PHONE_1 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_2 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_3 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_4 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_5 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_6 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_7 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_8 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_9 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_10 ADD prefNumber TEXT NULL",
+			"ALTER TABLE PHONE_11 ADD prefNumber TEXT NULL"
+        ],
+	"22" :[
+            "ALTER TABLE AddressBook ADD prefNumber TEXT NULL"						
+        ]
+}

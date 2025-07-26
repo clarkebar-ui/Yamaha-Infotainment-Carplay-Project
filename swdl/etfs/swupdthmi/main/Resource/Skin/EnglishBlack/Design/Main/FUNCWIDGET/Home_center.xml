@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="38" name="Audio" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="39" name="Vehicle_Info" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="40" name="Source" type="BUTTON"></Item>
+		<Item TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="41" name="Menu" type="BUTTON"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="1" name="Speller_keypad_ABC" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="2" name="Speller_Spcl_character" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="3" name="Speller_LATIN" type="REFFUNCWIDGET" visible="true"></Item>
+		<Item id="4" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="5" name="home" type="REFFUNCWIDGET"></Item>
+	</Group>
+</SCREEN>

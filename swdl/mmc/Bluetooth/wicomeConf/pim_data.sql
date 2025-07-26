@@ -1,0 +1,11 @@
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(1, '00:00:00:00:00:00','PHONE_1',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(2, '00:00:00:00:00:00','PHONE_2',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(3, '00:00:00:00:00:00','PHONE_3',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(4, '00:00:00:00:00:00','PHONE_4',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(5, '00:00:00:00:00:00','PHONE_5',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(6, '00:00:00:00:00:00','PHONE_6',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(7, '00:00:00:00:00:00','PHONE_7',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(8, '00:00:00:00:00:00','PHONE_8',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(9, '00:00:00:00:00:00','PHONE_9',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(10, '00:00:00:00:00:00','PHONE_10',0);
+INSERT INTO BT_DEVICE(bdDeviceId, bdAddr,tableName,syncComplete) VALUES(11, '00:00:00:00:00:00','PHONE_11',0);

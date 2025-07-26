@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FUNCWIDGET>
+	<Group>
+		<Item id="1" name="SET_Spl_Capital_letters" type="KEYBOARD"></Item>
+		<Item id="3" name="SET_Spl_Small_letters" type="KEYBOARD"></Item>
+		<Item id="4" name="SET_Spl_Specl_letters" type="KEYBOARD"></Item>
+		<Item id="6" name="Edit_field" type="IMAGEFIELD"></Item>
+		<Item id="7" name="Edit_field_text" type="EDITFIELD"></Item>
+	</Group>
+</FUNCWIDGET>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item DISABLE_TOUCHED="false" TOUCH_CANCELED="false" TOUCH_CONTINUE_PRESSED="false" TOUCH_DOUBLE_PRESSED="false" TOUCH_DOUBLE_RELEASED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="30" name="Auto" type="BUTTON"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_DOUBLE_PRESSED="false" TOUCH_DOUBLE_RELEASED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="31" name="ChannelItem" type="BUTTON" visible="true"></Item>
+		<Item TOUCH_CONTINUE_PRESSED="false" TOUCH_DOUBLE_PRESSED="false" TOUCH_DOUBLE_RELEASED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="37" name="List" type="BUTTON"></Item>
+		<Item DISABLE_TOUCHED="false" TOUCH_CANCELED="false" TOUCH_CONTINUE_PRESSED="false" TOUCH_DOUBLE_PRESSED="false" TOUCH_DOUBLE_RELEASED="false" TOUCH_LONG_PRESSED="false" TOUCH_LONG_RELEASED="false" TOUCH_PRESSED="false" TOUCH_RELEASED="true" id="38" name="Setting" type="BUTTON"></Item>
+		<Item id="48" name="Channel" type="TEXTFIELD"></Item>
+		<Item id="49" name="Contents" type="TEXTFIELD"></Item>
+		<Item id="69" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="72" name="Menu" type="REFFUNCWIDGET"></Item>
+		<Item CCP_FOCUS_CHANGED="true" ITEM_DRAGGING="true" ITEM_DROPPED="true" ITEM_SCROLLING="true" ITEM_SCROLL_STOP="true" SELECT_CHANGED="true" WANT_NEXT_PAGE="true" id="80" name="Table_Freq_List" type="TABLE"></Item>
+		<Item id="82" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="83" name="SeekBackground" type="IMAGEFIELD"></Item>
+		<Item id="84" name="SeekPress" type="IMAGEFIELD"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="85" name="SeekLeft" type="BUTTON"></Item>
+		<Item TOUCH_LONG_PRESSED="true" TOUCH_LONG_RELEASED="true" TOUCH_PRESSED="true" TOUCH_RELEASED="true" id="86" name="SeekRight" type="BUTTON"></Item>
+		<Item id="87" name="Ps_Name" type="TEXTFIELD"></Item>
+		<Item id="89" name="Unit" type="TEXTFIELD"></Item>
+		<Item id="90" name="DisableScr" type="BUTTON"></Item>
+	</Group>
+</SCREEN>

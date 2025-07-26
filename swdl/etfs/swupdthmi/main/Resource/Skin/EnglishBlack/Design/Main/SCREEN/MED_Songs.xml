@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="7" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="8" name="Home" type="REFFUNCWIDGET"></Item>
+		<Item id="9" name="TEXT" type="BUTTON"></Item>
+		<Item id="11" name="Scrollbar_Table" type="SCROLLBAR"></Item>
+		<Item id="19" name="MED_Menubar" type="REFFUNCWIDGET"></Item>
+		<Item id="20" name="ky_5_n_push_sel_aud" type="BUTTON"></Item>
+		<Item id="21" name="USB2" type="TEXTFIELD"></Item>
+		<Item id="22" name="SMPLIST" type="SMPLIST"></Item>
+	</Group>
+</SCREEN>

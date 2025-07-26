@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="44" name="Home_Center" type="REFFUNCWIDGET"></Item>
+		<Item id="46" name="Home_footer" type="REFFUNCWIDGET"></Item>
+		<Item id="57" name="TOP" type="REFFUNCWIDGET"></Item>
+		<Item id="58" name="Home_header" type="REFFUNCWIDGET"></Item>
+		<Item id="59" name="Text_one" type="TEXTFIELD"></Item>
+		<Item id="60" name="Text_two" type="TEXTFIELD"></Item>
+		<Item id="61" name="Text_three" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>

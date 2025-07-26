@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+	<Group>
+		<Item id="24" name="Header" type="REFFUNCWIDGET"></Item>
+		<Item id="25" name="Menu_2" type="REFFUNCWIDGET"></Item>
+		<Item id="26" name="Hi" type="BUTTON"></Item>
+		<Item id="27" name="Setting" type="BUTTON"></Item>
+		<Item id="28" name="Mid" type="BUTTON"></Item>
+		<Item id="29" name="Off" type="BUTTON"></Item>
+		<Item id="30" name="Up_Side" type="IMAGEFIELD"></Item>
+		<Item id="31" name="Down_side" type="IMAGEFIELD"></Item>
+		<Item id="32" name="Volume" type="TEXTFIELD"></Item>
+		<Item id="33" name="AUX_Output" type="TEXTFIELD"></Item>
+	</Group>
+</SCREEN>
